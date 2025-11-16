@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,unit_price,country,payment_method
+O000001,C0103,2024-09-06,Accessories,Watch,3,153.48,UK,Bank Transfer
+O000002,C0271,2024-07-05,Electronics,Keyboard,2,121.46,Spain,PayPal
+O000003,C0107,2023-04-11,Home,Pillow,1,167.4,Italy,Bank Transfer
+O000004,C0072,2023-12-25,Accessories,Watch,3,25.24,Germany,PayPal
+O000005,C0189,2024-01-15,Accessories,Belt,3,100.6,Italy,Bank Transfer
+O000006,C0021,2023-08-09,Clothing,T-Shirt,3,129.72,Spain,PayPal
+O000007,C0103,2024-02-24,Sports,Sneakers,2,167.44,France,Credit Card
+O000008,C0122,2023-05-04,Beauty,Shampoo,2,158.86,Italy,Bank Transfer
+O000009,C0215,2024-02-26,Home,Lamp,4,62.64,UK,Bank Transfer
+O000010,C0088,2023-08-19,Accessories,Watch,4,188.77,Spain,PayPal
+O000011,C0100,2023-03-04,Home,Cookware,3,33.63,Spain,Credit Card
+O000012,C0152,2024-04-29,Electronics,Keyboard,3,176.28,Italy,PayPal
+O000013,C0131,2024-09-19,Beauty,Cream,2,194.48,UK,Credit Card
+O000014,C0150,2024-07-27,Beauty,Cream,4,43.66,Germany,Bank Transfer
+O000015,C0258,2024-04-27,Home,Lamp,3,147.19,Spain,Credit Card
+O000016,C0294,2024-06-02,Electronics,Keyboard,4,17.65,Germany,Bank Transfer
+O000017,C0192,2023-06-04,Electronics,Mouse,4,87.03,Germany,PayPal
+O000018,C0277,2023-04-02,Sports,Yoga Mat,3,108.09,Spain,Credit Card
+O000019,C0161,2024-06-09,Clothing,Jeans,2,120.32,Germany,Credit Card
+O000020,C0022,2024-03-30,Beauty,Perfume,3,187.83,UK,Bank Transfer
+O000021,C0253,2024-08-20,Accessories,Watch,3,137.73,Germany,PayPal
+O000022,C0236,2024-10-06,Home,Pillow,4,101.44,UK,PayPal
+O000023,C0049,2024-05-24,Accessories,Necklace,3,163.84,Spain,Bank Transfer
+O000024,C0059,2023-07-02,Home,Lamp,2,190.6,UK,PayPal
+O000025,C0170,2024-01-21,Electronics,Mouse,3,14.19,Italy,Bank Transfer
+O000026,C0188,2024-07-27,Accessories,Watch,2,196.68,UK,PayPal
+O000027,C0271,2024-02-09,Clothing,Jacket,2,26.37,UK,Bank Transfer
+O000028,C0190,2023-09-03,Electronics,Headphones,4,164.73,UK,Bank Transfer
+O000029,C0175,2024-08-13,Clothing,Jeans,1,63.26,Germany,PayPal
+O000030,C0051,2024-10-11,Home,Pillow,1,35.11,Spain,Credit Card
+O000031,C0055,2024-04-15,Accessories,Belt,4,93.57,UK,Credit Card
+O000032,C0244,2024-02-27,Beauty,Shampoo,3,132.35,France,Credit Card
+O000033,C0131,2023-03-06,Accessories,Necklace,4,82.38,UK,Bank Transfer
+O000034,C0135,2023-01-13,Home,Cookware,2,20.37,Italy,Credit Card
+O000035,C0021,2023-08-01,Electronics,Headphones,1,123.9,Germany,Credit Card
+O000036,C0167,2023-08-30,Accessories,Belt,4,181.46,UK,PayPal
+O000037,C0274,2024-05-07,Sports,Sneakers,3,82.81,France,Bank Transfer
+O000038,C0089,2023-08-01,Electronics,Keyboard,4,51.1,UK,Bank Transfer
+O000039,C0014,2023-12-04,Sports,Yoga Mat,1,94.09,Italy,Bank Transfer
+O000040,C0242,2023-06-22,Home,Cookware,4,19.19,France,Credit Card
+O000041,C0265,2023-06-13,Beauty,Perfume,4,165.89,France,PayPal
+O000042,C0053,2024-04-09,Accessories,Belt,1,167.0,France,PayPal
+O000043,C0092,2024-05-11,Accessories,Necklace,2,121.72,Spain,PayPal
+O000044,C0264,2024-01-30,Beauty,Cream,2,77.09,UK,Credit Card
+O000045,C0035,2023-11-04,Beauty,Cream,1,161.96,Spain,Bank Transfer
+O000046,C0206,2023-07-02,Beauty,Shampoo,4,115.39,Germany,Bank Transfer
+O000047,C0081,2024-09-20,Accessories,Necklace,1,166.93,Italy,PayPal
+O000048,C0050,2024-05-24,Electronics,Headphones,2,129.98,France,PayPal
+O000049,C0002,2024-06-29,Home,Lamp,3,159.04,Spain,Credit Card
+O000050,C0054,2024-07-17,Clothing,Jeans,4,123.73,Germany,Bank Transfer
+O000051,C0106,2024-09-15,Home,Lamp,2,88.69,Italy,PayPal
+O000052,C0260,2024-08-16,Accessories,Watch,4,192.01,Italy,Credit Card
+O000053,C0191,2023-08-15,Clothing,Jacket,1,112.81,Italy,Credit Card
+O000054,C0218,2024-03-11,Electronics,Headphones,3,124.97,Germany,Credit Card
+O000055,C0044,2024-02-26,Beauty,Perfume,1,51.89,UK,Credit Card
+O000056,C0162,2024-07-07,Home,Pillow,3,128.87,France,PayPal
+O000057,C0202,2023-01-21,Beauty,Shampoo,4,118.61,France,Credit Card
+O000058,C0270,2024-07-07,Sports,Backpack,4,45.12,UK,Bank Transfer
+O000059,C0271,2024-02-01,Electronics,Mouse,1,21.32,Spain,Credit Card
+O000060,C0215,2024-09-16,Beauty,Perfume,3,124.83,Italy,Credit Card
+O000061,C0252,2023-04-15,Accessories,Watch,3,155.1,UK,PayPal
+O000062,C0190,2023-07-11,Accessories,Watch,4,109.45,UK,Credit Card
+O000063,C0296,2023-01-17,Beauty,Perfume,1,53.09,Germany,PayPal
+O000064,C0213,2023-04-30,Clothing,T-Shirt,3,136.64,Germany,Bank Transfer
+O000065,C0208,2024-01-28,Electronics,Headphones,4,25.22,France,PayPal
+O000066,C0237,2024-02-29,Home,Lamp,2,93.95,Germany,Credit Card
+O000067,C0053,2023-05-09,Accessories,Watch,1,41.04,France,Credit Card
+O000068,C0280,2023-05-10,Sports,Yoga Mat,2,45.05,Italy,Credit Card
+O000069,C0217,2024-07-25,Beauty,Perfume,1,48.44,UK,Credit Card
+O000070,C0252,2024-07-13,Sports,Yoga Mat,4,83.47,France,PayPal
+O000071,C0188,2023-01-29,Electronics,Mouse,3,19.72,UK,Credit Card
+O000072,C0041,2023-04-07,Beauty,Shampoo,3,85.58,UK,Credit Card
+O000073,C0157,2023-01-10,Accessories,Necklace,3,107.22,France,Credit Card
+O000074,C0015,2023-08-30,Electronics,Headphones,1,101.83,France,Bank Transfer
+O000075,C0065,2023-08-20,Beauty,Shampoo,4,82.73,Germany,Bank Transfer
+O000076,C0009,2023-10-11,Beauty,Shampoo,2,169.44,Germany,Credit Card
+O000077,C0129,2023-07-19,Beauty,Shampoo,4,37.61,France,PayPal
+O000078,C0136,2023-03-20,Beauty,Perfume,2,106.08,France,Credit Card
+O000079,C0063,2023-06-22,Accessories,Belt,1,21.79,France,Credit Card
+O000080,C0139,2024-04-11,Sports,Sneakers,1,23.52,Spain,Bank Transfer
+O000081,C0081,2024-08-03,Electronics,Headphones,2,119.03,Germany,Bank Transfer
+O000082,C0163,2024-02-20,Clothing,Jeans,2,117.54,Germany,Bank Transfer
+O000083,C0289,2024-03-24,Home,Cookware,2,176.83,UK,Credit Card
+O000084,C0261,2023-03-28,Sports,Backpack,4,116.0,Italy,PayPal
+O000085,C0231,2023-04-11,Accessories,Belt,2,192.36,Germany,Bank Transfer
+O000086,C0041,2023-01-08,Electronics,Keyboard,1,19.25,Spain,PayPal
+O000087,C0028,2023-07-19,Home,Cookware,1,28.62,Germany,Credit Card
+O000088,C0135,2024-05-19,Electronics,Headphones,3,18.37,Italy,Credit Card
+O000089,C0201,2023-03-28,Electronics,Mouse,2,45.2,Italy,PayPal
+O000090,C0268,2023-02-12,Clothing,Jacket,4,112.84,UK,Bank Transfer
+O000091,C0033,2024-01-20,Sports,Yoga Mat,4,132.66,France,PayPal
+O000092,C0048,2024-09-12,Beauty,Shampoo,4,18.66,Italy,PayPal
+O000093,C0062,2024-03-10,Beauty,Shampoo,3,189.73,UK,Bank Transfer
+O000094,C0216,2024-02-12,Clothing,T-Shirt,1,170.01,Italy,Credit Card
+O000095,C0293,2024-04-27,Home,Cookware,4,66.36,France,PayPal
+O000096,C0099,2023-01-17,Home,Pillow,1,24.67,UK,Bank Transfer
+O000097,C0172,2024-10-06,Clothing,Jeans,3,42.28,UK,PayPal
+O000098,C0214,2023-05-28,Electronics,Headphones,2,34.12,UK,Bank Transfer
+O000099,C0035,2023-10-04,Sports,Backpack,2,33.42,Italy,PayPal
+O000100,C0227,2023-08-20,Clothing,Jacket,2,108.53,UK,Bank Transfer
+O000101,C0101,2024-01-01,Clothing,T-Shirt,4,56.71,Spain,Bank Transfer
+O000102,C0131,2023-08-16,Accessories,Belt,2,78.05,Italy,Bank Transfer
+O000103,C0257,2024-03-11,Home,Cookware,4,198.01,Spain,Bank Transfer
+O000104,C0005,2024-02-03,Home,Lamp,3,140.02,Italy,Bank Transfer
+O000105,C0218,2023-07-30,Accessories,Watch,3,190.31,UK,Bank Transfer
+O000106,C0255,2024-01-26,Beauty,Shampoo,4,37.09,France,PayPal
+O000107,C0283,2024-05-13,Sports,Sneakers,1,82.61,France,PayPal
+O000108,C0207,2024-06-23,Sports,Yoga Mat,2,115.4,UK,Bank Transfer
+O000109,C0015,2024-07-16,Home,Lamp,2,24.58,Italy,Bank Transfer
+O000110,C0042,2024-05-05,Accessories,Belt,2,10.8,Spain,Credit Card
+O000111,C0179,2024-03-17,Sports,Backpack,4,137.38,UK,Credit Card
+O000112,C0063,2023-09-18,Sports,Backpack,3,131.95,Germany,Credit Card
+O000113,C0231,2023-12-16,Beauty,Perfume,2,88.05,Spain,Bank Transfer
+O000114,C0241,2023-12-18,Electronics,Keyboard,3,103.03,UK,Bank Transfer
+O000115,C0052,2024-06-03,Clothing,T-Shirt,2,88.93,UK,Bank Transfer
+O000116,C0096,2023-11-16,Sports,Backpack,2,14.56,UK,Bank Transfer
+O000117,C0222,2023-05-18,Electronics,Headphones,4,73.72,Italy,Bank Transfer
+O000118,C0231,2024-07-03,Home,Cookware,1,43.65,France,Bank Transfer
+O000119,C0237,2024-09-14,Accessories,Watch,4,28.7,Spain,Bank Transfer
+O000120,C0143,2024-01-03,Beauty,Cream,2,191.78,Italy,PayPal
+O000121,C0171,2023-08-08,Sports,Sneakers,2,123.88,Spain,PayPal
+O000122,C0029,2023-12-03,Accessories,Belt,1,148.44,France,Credit Card
+O000123,C0036,2023-08-11,Beauty,Perfume,3,69.92,Spain,PayPal
+O000124,C0013,2024-10-09,Electronics,Headphones,3,84.7,Germany,PayPal
+O000125,C0160,2023-12-26,Clothing,Jacket,2,55.02,Italy,Credit Card
+O000126,C0187,2023-11-25,Sports,Sneakers,3,28.42,Spain,PayPal
+O000127,C0243,2024-04-07,Accessories,Necklace,2,44.02,UK,Bank Transfer
+O000128,C0086,2024-07-14,Accessories,Belt,1,161.53,UK,Credit Card
+O000129,C0284,2024-01-17,Home,Cookware,1,138.73,Italy,PayPal
+O000130,C0066,2024-08-12,Accessories,Belt,2,113.92,Germany,Bank Transfer
+O000131,C0170,2024-09-08,Beauty,Perfume,1,100.27,Italy,Bank Transfer
+O000132,C0045,2023-06-18,Sports,Sneakers,4,185.26,Italy,Bank Transfer
+O000133,C0062,2023-08-05,Clothing,Jeans,4,23.82,UK,PayPal
+O000134,C0134,2024-01-13,Home,Cookware,1,63.31,Germany,Credit Card
+O000135,C0284,2023-04-29,Clothing,Jacket,2,76.49,Italy,PayPal
+O000136,C0028,2023-07-09,Home,Cookware,2,158.66,France,PayPal
+O000137,C0108,2024-01-05,Clothing,Jeans,1,198.58,UK,PayPal
+O000138,C0044,2023-05-29,Home,Cookware,3,55.73,Italy,PayPal
+O000139,C0286,2024-05-02,Accessories,Belt,4,176.12,Spain,PayPal
+O000140,C0128,2024-01-09,Beauty,Perfume,3,167.82,Spain,Credit Card
+O000141,C0231,2023-06-09,Sports,Backpack,2,52.68,UK,Credit Card
+O000142,C0190,2023-12-17,Electronics,Mouse,2,85.87,France,PayPal
+O000143,C0225,2023-10-15,Home,Lamp,3,87.84,France,PayPal
+O000144,C0283,2023-10-15,Home,Lamp,1,195.86,Germany,Credit Card
+O000145,C0121,2023-08-14,Sports,Sneakers,3,44.37,Spain,Bank Transfer
+O000146,C0116,2024-06-06,Home,Cookware,3,161.84,Italy,PayPal
+O000147,C0233,2024-06-05,Home,Pillow,4,73.5,Spain,Bank Transfer
+O000148,C0259,2023-09-30,Sports,Yoga Mat,4,148.87,France,PayPal
+O000149,C0198,2024-02-06,Electronics,Headphones,3,89.8,UK,PayPal
+O000150,C0137,2023-07-02,Home,Lamp,3,119.89,Spain,PayPal
+O000151,C0165,2024-05-02,Home,Cookware,2,168.2,France,PayPal
+O000152,C0225,2023-05-04,Clothing,Jeans,4,162.79,France,PayPal
+O000153,C0234,2024-09-17,Electronics,Mouse,4,174.62,Italy,PayPal
+O000154,C0172,2024-02-18,Clothing,Jacket,2,21.33,Italy,PayPal
+O000155,C0152,2023-06-21,Electronics,Headphones,1,141.49,France,PayPal
+O000156,C0160,2023-10-15,Beauty,Cream,4,36.6,Italy,Bank Transfer
+O000157,C0096,2024-03-10,Electronics,Keyboard,4,89.01,Spain,PayPal
+O000158,C0233,2023-04-23,Electronics,Headphones,1,114.23,Spain,PayPal
+O000159,C0180,2023-05-02,Home,Lamp,4,86.52,Italy,PayPal
+O000160,C0113,2024-06-27,Home,Pillow,4,108.73,France,PayPal
+O000161,C0052,2023-08-10,Electronics,Mouse,1,199.34,Italy,PayPal
+O000162,C0268,2024-09-22,Home,Cookware,1,35.69,Germany,Bank Transfer
+O000163,C0295,2023-02-08,Electronics,Headphones,3,138.34,France,Bank Transfer
+O000164,C0113,2024-05-11,Home,Pillow,2,85.24,Germany,PayPal
+O000165,C0101,2023-08-21,Accessories,Necklace,2,35.27,Italy,PayPal
+O000166,C0113,2024-06-13,Accessories,Watch,1,40.16,Germany,Credit Card
+O000167,C0081,2023-05-29,Home,Pillow,1,190.36,France,Bank Transfer
+O000168,C0187,2024-02-01,Beauty,Perfume,4,177.12,Germany,PayPal
+O000169,C0113,2024-09-29,Beauty,Perfume,3,182.34,Spain,PayPal
+O000170,C0002,2023-10-29,Accessories,Watch,3,198.39,Italy,Credit Card
+O000171,C0130,2023-12-26,Clothing,Jeans,1,49.58,France,Bank Transfer
+O000172,C0220,2023-08-26,Beauty,Cream,4,77.53,France,Credit Card
+O000173,C0054,2024-10-08,Home,Lamp,4,137.15,France,Credit Card
+O000174,C0224,2023-08-24,Beauty,Cream,2,101.92,Germany,PayPal
+O000175,C0225,2023-07-22,Accessories,Belt,2,89.49,France,PayPal
+O000176,C0126,2023-09-13,Clothing,T-Shirt,4,77.98,UK,Credit Card
+O000177,C0130,2024-08-20,Clothing,Jacket,2,122.82,Spain,PayPal
+O000178,C0053,2023-08-23,Sports,Yoga Mat,1,119.36,France,PayPal
+O000179,C0172,2023-12-11,Home,Pillow,4,40.68,Germany,Credit Card
+O000180,C0218,2024-06-17,Clothing,Jeans,2,99.63,Spain,Bank Transfer
+O000181,C0160,2024-04-10,Clothing,Jeans,3,115.16,France,Credit Card
+O000182,C0198,2024-06-24,Accessories,Watch,4,118.35,Italy,Bank Transfer
+O000183,C0247,2023-08-01,Electronics,Headphones,4,49.92,Germany,Bank Transfer
+O000184,C0203,2024-04-07,Electronics,Mouse,3,151.03,Spain,Credit Card
+O000185,C0184,2024-03-11,Sports,Yoga Mat,1,14.79,UK,PayPal
+O000186,C0123,2023-10-10,Accessories,Necklace,3,77.42,Italy,PayPal
+O000187,C0255,2024-07-15,Accessories,Necklace,4,158.24,Germany,Bank Transfer
+O000188,C0294,2024-08-29,Sports,Sneakers,1,117.14,Spain,Credit Card
+O000189,C0280,2024-04-07,Beauty,Cream,2,59.62,Spain,Bank Transfer
+O000190,C0098,2024-02-11,Accessories,Necklace,2,142.04,France,PayPal
+O000191,C0198,2023-03-29,Electronics,Mouse,2,117.8,UK,PayPal
+O000192,C0240,2023-02-13,Electronics,Headphones,4,161.29,Spain,Credit Card
+O000193,C0144,2024-04-05,Beauty,Cream,3,149.65,Spain,Bank Transfer
+O000194,C0097,2023-10-05,Beauty,Shampoo,1,125.92,UK,Credit Card
+O000195,C0201,2024-02-25,Clothing,T-Shirt,2,102.75,Italy,Bank Transfer
+O000196,C0124,2023-12-19,Home,Lamp,1,35.3,Italy,Credit Card
+O000197,C0187,2024-05-29,Beauty,Perfume,4,59.65,Italy,Bank Transfer
+O000198,C0259,2024-09-21,Clothing,Jacket,2,89.63,UK,Credit Card
+O000199,C0148,2023-01-19,Accessories,Necklace,4,123.87,UK,Bank Transfer
+O000200,C0252,2023-01-23,Beauty,Shampoo,3,107.6,Germany,Bank Transfer
+O000201,C0147,2024-02-17,Accessories,Belt,4,64.76,UK,Bank Transfer
+O000202,C0148,2023-01-30,Home,Lamp,4,11.23,Germany,Credit Card
+O000203,C0199,2023-04-18,Clothing,Jeans,3,104.29,France,PayPal
+O000204,C0128,2024-01-02,Beauty,Cream,1,64.27,UK,Bank Transfer
+O000205,C0039,2023-10-08,Clothing,Jeans,3,149.58,Spain,PayPal
+O000206,C0129,2023-05-08,Electronics,Keyboard,3,14.55,Germany,Bank Transfer
+O000207,C0267,2023-08-17,Accessories,Necklace,4,121.12,UK,Credit Card
+O000208,C0151,2023-04-21,Home,Lamp,1,188.88,Germany,Credit Card
+O000209,C0298,2023-05-16,Accessories,Watch,2,43.14,Germany,PayPal
+O000210,C0099,2023-12-28,Accessories,Watch,3,99.61,UK,Credit Card
+O000211,C0263,2023-07-05,Accessories,Necklace,1,27.37,Spain,Credit Card
+O000212,C0252,2024-08-06,Home,Cookware,3,128.88,Germany,Credit Card
+O000213,C0144,2023-05-09,Sports,Yoga Mat,3,114.6,Spain,PayPal
+O000214,C0112,2023-09-18,Clothing,Jacket,3,87.4,France,PayPal
+O000215,C0060,2024-05-29,Clothing,Jeans,3,109.06,Germany,PayPal
+O000216,C0002,2024-03-24,Accessories,Belt,4,180.35,Italy,Credit Card
+O000217,C0254,2023-04-14,Beauty,Shampoo,1,47.3,Italy,Bank Transfer
+O000218,C0140,2024-04-27,Clothing,Jeans,1,14.29,Italy,Bank Transfer
+O000219,C0037,2023-08-12,Accessories,Watch,1,173.72,Spain,Bank Transfer
+O000220,C0160,2024-05-05,Accessories,Necklace,3,119.65,Germany,PayPal
+O000221,C0009,2024-04-17,Electronics,Mouse,4,179.23,Italy,Bank Transfer
+O000222,C0233,2023-01-10,Clothing,Jacket,3,123.42,Germany,Bank Transfer
+O000223,C0099,2024-02-09,Clothing,Jacket,3,163.93,Germany,Bank Transfer
+O000224,C0147,2023-10-29,Beauty,Shampoo,1,91.64,Germany,PayPal
+O000225,C0208,2023-08-19,Clothing,Jacket,3,152.47,Italy,PayPal
+O000226,C0131,2023-03-07,Clothing,Jeans,2,183.48,France,Bank Transfer
+O000227,C0152,2023-04-22,Home,Pillow,3,118.7,UK,PayPal
+O000228,C0054,2023-01-13,Electronics,Mouse,2,44.35,Germany,Bank Transfer
+O000229,C0120,2024-01-28,Sports,Yoga Mat,3,61.07,Germany,Credit Card
+O000230,C0161,2024-05-14,Home,Cookware,4,47.74,France,Bank Transfer
+O000231,C0116,2024-08-20,Beauty,Cream,4,56.9,France,Bank Transfer
+O000232,C0075,2023-08-22,Electronics,Keyboard,1,68.22,Germany,Credit Card
+O000233,C0113,2024-08-24,Accessories,Belt,3,115.48,UK,Credit Card
+O000234,C0104,2023-11-10,Accessories,Belt,2,121.72,Spain,Credit Card
+O000235,C0254,2024-07-19,Sports,Yoga Mat,2,91.03,UK,Credit Card
+O000236,C0227,2023-01-12,Home,Lamp,3,126.93,UK,Credit Card
+O000237,C0112,2023-07-28,Clothing,Jacket,2,25.5,Germany,Credit Card
+O000238,C0099,2023-01-14,Clothing,Jeans,4,26.68,Germany,PayPal
+O000239,C0153,2024-09-24,Sports,Backpack,2,42.65,Germany,Credit Card
+O000240,C0194,2024-02-22,Beauty,Shampoo,1,108.43,Germany,Credit Card
+O000241,C0163,2024-03-12,Accessories,Watch,4,50.66,Italy,PayPal
+O000242,C0208,2024-01-12,Sports,Backpack,4,63.82,Italy,PayPal
+O000243,C0169,2023-01-20,Clothing,T-Shirt,4,86.06,Italy,PayPal
+O000244,C0161,2024-08-09,Accessories,Necklace,3,164.25,Spain,Credit Card
+O000245,C0068,2023-03-11,Sports,Backpack,3,12.63,Germany,PayPal
+O000246,C0289,2023-07-30,Electronics,Mouse,4,133.38,Germany,PayPal
+O000247,C0277,2023-04-11,Electronics,Mouse,3,137.09,Italy,PayPal
+O000248,C0135,2023-05-12,Electronics,Mouse,2,161.74,Spain,Credit Card
+O000249,C0195,2024-09-14,Clothing,Jacket,3,187.22,Germany,PayPal
+O000250,C0128,2024-01-16,Clothing,Jeans,3,13.83,Italy,Bank Transfer
+O000251,C0033,2023-05-12,Clothing,Jeans,4,39.22,UK,Credit Card
+O000252,C0176,2023-01-20,Clothing,Jacket,1,178.37,Spain,Credit Card
+O000253,C0022,2024-06-19,Beauty,Shampoo,1,97.12,Italy,Credit Card
+O000254,C0238,2023-08-15,Clothing,T-Shirt,1,117.27,France,PayPal
+O000255,C0158,2023-06-03,Sports,Sneakers,2,135.98,Germany,PayPal
+O000256,C0038,2024-04-13,Sports,Sneakers,3,139.02,Italy,PayPal
+O000257,C0230,2024-02-09,Clothing,Jacket,1,187.03,France,Credit Card
+O000258,C0051,2023-07-21,Beauty,Shampoo,4,199.42,UK,Credit Card
+O000259,C0264,2023-02-07,Home,Lamp,1,146.83,UK,Credit Card
+O000260,C0283,2023-07-07,Home,Cookware,1,64.57,Germany,PayPal
+O000261,C0027,2023-02-26,Accessories,Watch,3,177.15,Spain,Credit Card
+O000262,C0226,2023-01-20,Accessories,Belt,3,19.35,Spain,Bank Transfer
+O000263,C0277,2023-09-30,Accessories,Watch,3,53.91,Germany,Bank Transfer
+O000264,C0286,2023-04-29,Clothing,Jeans,2,180.5,UK,Bank Transfer
+O000265,C0097,2024-08-05,Home,Cookware,2,58.68,Germany,Credit Card
+O000266,C0284,2024-05-30,Beauty,Cream,1,51.92,Spain,Bank Transfer
+O000267,C0147,2023-08-09,Clothing,T-Shirt,3,36.24,UK,Bank Transfer
+O000268,C0004,2024-06-09,Clothing,Jacket,1,173.23,France,Credit Card
+O000269,C0035,2024-05-29,Electronics,Keyboard,4,105.01,UK,Credit Card
+O000270,C0192,2023-12-02,Home,Cookware,4,138.23,Spain,Bank Transfer
+O000271,C0049,2023-02-24,Beauty,Shampoo,3,55.42,Germany,Credit Card
+O000272,C0017,2024-05-14,Accessories,Necklace,3,154.03,Spain,Bank Transfer
+O000273,C0172,2024-06-19,Accessories,Belt,4,154.4,Spain,Credit Card
+O000274,C0220,2023-06-11,Electronics,Keyboard,3,69.39,UK,Credit Card
+O000275,C0158,2024-08-16,Electronics,Mouse,2,88.03,Spain,PayPal
+O000276,C0046,2023-06-08,Sports,Sneakers,2,49.84,Germany,PayPal
+O000277,C0006,2023-07-07,Clothing,Jeans,3,195.55,Germany,Credit Card
+O000278,C0099,2023-03-01,Electronics,Headphones,4,132.66,Italy,Bank Transfer
+O000279,C0233,2023-11-15,Beauty,Perfume,1,187.56,Italy,Bank Transfer
+O000280,C0037,2023-07-30,Beauty,Perfume,3,67.64,Italy,PayPal
+O000281,C0280,2024-02-10,Clothing,T-Shirt,3,158.56,Spain,Credit Card
+O000282,C0181,2023-04-19,Sports,Backpack,1,155.51,UK,Credit Card
+O000283,C0095,2023-03-17,Beauty,Shampoo,3,141.41,Germany,Credit Card
+O000284,C0099,2024-06-25,Electronics,Keyboard,1,193.47,UK,Bank Transfer
+O000285,C0188,2023-11-10,Accessories,Belt,4,84.78,Spain,Credit Card
+O000286,C0116,2023-04-27,Accessories,Watch,2,34.84,France,Credit Card
+O000287,C0191,2023-01-19,Clothing,Jeans,4,137.62,Spain,Credit Card
+O000288,C0253,2024-03-07,Electronics,Headphones,2,148.57,Italy,PayPal
+O000289,C0161,2023-12-16,Sports,Yoga Mat,1,119.26,Germany,Credit Card
+O000290,C0256,2023-07-02,Accessories,Belt,2,49.3,France,Bank Transfer
+O000291,C0128,2023-04-23,Electronics,Keyboard,4,105.85,Spain,Bank Transfer
+O000292,C0018,2023-07-02,Sports,Yoga Mat,2,69.32,UK,Bank Transfer
+O000293,C0281,2024-04-25,Home,Lamp,1,91.22,Italy,Credit Card
+O000294,C0223,2023-05-26,Home,Pillow,2,132.59,Italy,Bank Transfer
+O000295,C0054,2024-09-19,Clothing,Jeans,3,151.59,UK,PayPal
+O000296,C0058,2023-04-23,Clothing,Jacket,4,54.12,Italy,Bank Transfer
+O000297,C0174,2024-04-20,Electronics,Mouse,3,87.01,France,Bank Transfer
+O000298,C0280,2023-10-30,Electronics,Headphones,1,61.14,France,PayPal
+O000299,C0114,2023-04-28,Electronics,Headphones,2,47.74,Spain,Bank Transfer
+O000300,C0288,2023-06-10,Sports,Yoga Mat,3,158.84,Italy,Credit Card
+O000301,C0151,2024-02-05,Electronics,Headphones,3,182.76,France,PayPal
+O000302,C0127,2023-07-17,Clothing,T-Shirt,2,80.34,France,Credit Card
+O000303,C0155,2023-09-17,Home,Pillow,2,152.74,Spain,PayPal
+O000304,C0273,2023-02-16,Sports,Backpack,4,180.43,UK,Bank Transfer
+O000305,C0104,2024-02-03,Accessories,Belt,3,170.76,Italy,Bank Transfer
+O000306,C0299,2024-07-12,Electronics,Keyboard,3,44.73,UK,Credit Card
+O000307,C0246,2023-03-19,Clothing,Jeans,1,191.7,UK,Credit Card
+O000308,C0176,2023-05-04,Clothing,T-Shirt,4,81.57,Italy,Credit Card
+O000309,C0039,2023-03-16,Sports,Sneakers,1,74.46,Spain,Bank Transfer
+O000310,C0170,2023-05-17,Electronics,Headphones,3,21.86,Spain,PayPal
+O000311,C0247,2024-08-24,Clothing,Jeans,1,102.37,Spain,PayPal
+O000312,C0026,2024-02-04,Electronics,Headphones,3,30.71,Spain,Bank Transfer
+O000313,C0013,2024-05-19,Electronics,Headphones,3,57.22,UK,Bank Transfer
+O000314,C0036,2024-05-14,Electronics,Keyboard,1,70.22,Germany,PayPal
+O000315,C0173,2024-07-26,Clothing,Jacket,1,163.68,France,PayPal
+O000316,C0020,2023-05-18,Sports,Backpack,2,176.34,Italy,Bank Transfer
+O000317,C0264,2023-02-19,Sports,Backpack,2,67.47,UK,Credit Card
+O000318,C0142,2024-09-10,Clothing,Jacket,2,173.15,UK,PayPal
+O000319,C0143,2024-09-16,Accessories,Necklace,3,172.87,UK,Credit Card
+O000320,C0092,2023-09-11,Sports,Backpack,1,155.28,Spain,Credit Card
+O000321,C0288,2024-09-21,Beauty,Shampoo,4,37.87,France,Bank Transfer
+O000322,C0215,2024-07-16,Beauty,Cream,3,141.16,Germany,Credit Card
+O000323,C0051,2024-03-01,Clothing,Jeans,4,189.55,UK,Credit Card
+O000324,C0153,2024-06-30,Electronics,Keyboard,1,139.68,France,Bank Transfer
+O000325,C0186,2023-10-29,Home,Pillow,3,73.01,France,PayPal
+O000326,C0063,2024-08-03,Electronics,Headphones,4,105.11,UK,PayPal
+O000327,C0190,2023-12-15,Accessories,Necklace,4,132.69,UK,PayPal
+O000328,C0125,2023-02-18,Sports,Yoga Mat,2,107.01,Italy,Bank Transfer
+O000329,C0150,2023-03-15,Electronics,Keyboard,2,32.79,France,Credit Card
+O000330,C0058,2023-09-18,Electronics,Headphones,2,69.29,Germany,Bank Transfer
+O000331,C0180,2023-12-22,Clothing,Jeans,3,162.46,France,Credit Card
+O000332,C0170,2024-08-04,Home,Lamp,1,173.67,UK,Credit Card
+O000333,C0271,2024-08-24,Clothing,Jeans,1,36.09,Spain,Bank Transfer
+O000334,C0054,2023-09-17,Electronics,Mouse,2,190.95,Italy,PayPal
+O000335,C0101,2024-09-29,Home,Pillow,2,72.48,UK,Credit Card
+O000336,C0264,2023-10-22,Beauty,Shampoo,2,135.84,Italy,Bank Transfer
+O000337,C0053,2024-10-02,Accessories,Watch,4,152.85,Italy,PayPal
+O000338,C0060,2023-11-09,Electronics,Mouse,2,164.27,Spain,PayPal
+O000339,C0108,2024-09-03,Beauty,Shampoo,4,189.69,Germany,Bank Transfer
+O000340,C0005,2023-07-01,Beauty,Cream,1,69.45,Italy,Bank Transfer
+O000341,C0103,2023-12-30,Clothing,Jeans,3,173.12,Spain,Credit Card
+O000342,C0196,2023-07-07,Clothing,Jacket,3,35.02,Spain,Credit Card
+O000343,C0262,2024-07-22,Sports,Backpack,3,143.96,Italy,Credit Card
+O000344,C0047,2024-06-26,Sports,Yoga Mat,3,150.98,UK,Credit Card
+O000345,C0144,2024-08-18,Beauty,Perfume,4,138.77,Italy,PayPal
+O000346,C0269,2024-07-01,Clothing,Jacket,4,57.94,Spain,Bank Transfer
+O000347,C0124,2024-02-12,Beauty,Perfume,2,175.88,UK,PayPal
+O000348,C0106,2024-09-09,Electronics,Keyboard,4,42.08,UK,Bank Transfer
+O000349,C0158,2024-02-18,Accessories,Belt,2,20.19,Germany,PayPal
+O000350,C0147,2023-12-08,Accessories,Necklace,2,146.32,Spain,Bank Transfer
+O000351,C0145,2023-08-08,Accessories,Watch,3,100.34,France,PayPal
+O000352,C0120,2023-06-12,Accessories,Necklace,4,171.33,UK,PayPal
+O000353,C0275,2023-08-08,Beauty,Cream,4,82.85,Italy,Bank Transfer
+O000354,C0092,2023-09-27,Electronics,Headphones,2,41.97,Italy,Bank Transfer
+O000355,C0058,2024-09-23,Accessories,Belt,2,168.92,France,Bank Transfer
+O000356,C0229,2024-02-04,Home,Lamp,1,114.29,Germany,Bank Transfer
+O000357,C0117,2023-07-01,Electronics,Headphones,1,45.95,Spain,Bank Transfer
+O000358,C0279,2024-09-09,Clothing,Jacket,2,146.87,UK,Credit Card
+O000359,C0127,2023-07-24,Sports,Sneakers,1,107.11,Germany,Bank Transfer
+O000360,C0129,2024-08-04,Clothing,T-Shirt,1,124.82,Germany,Credit Card
+O000361,C0058,2024-07-09,Clothing,T-Shirt,2,97.57,UK,Credit Card
+O000362,C0122,2023-08-16,Clothing,T-Shirt,2,167.45,Spain,PayPal
+O000363,C0001,2024-09-10,Beauty,Shampoo,4,167.62,UK,PayPal
+O000364,C0239,2024-08-18,Home,Pillow,2,144.78,Italy,Bank Transfer
+O000365,C0290,2023-09-07,Electronics,Headphones,2,30.03,UK,PayPal
+O000366,C0096,2024-03-16,Sports,Backpack,3,169.38,UK,PayPal
+O000367,C0126,2024-06-16,Clothing,T-Shirt,4,137.49,France,PayPal
+O000368,C0118,2023-07-15,Home,Cookware,4,142.43,Italy,Credit Card
+O000369,C0048,2024-06-02,Home,Cookware,4,78.97,Italy,Credit Card
+O000370,C0089,2023-03-11,Home,Pillow,3,177.06,France,Bank Transfer
+O000371,C0237,2024-09-30,Electronics,Mouse,2,147.82,Germany,Bank Transfer
+O000372,C0272,2024-02-03,Electronics,Keyboard,4,31.39,France,Credit Card
+O000373,C0189,2023-07-22,Home,Cookware,4,87.48,France,Credit Card
+O000374,C0192,2023-05-28,Home,Cookware,1,178.41,Germany,Credit Card
+O000375,C0069,2024-04-16,Electronics,Headphones,4,18.97,UK,Bank Transfer
+O000376,C0278,2023-07-18,Accessories,Watch,2,192.67,UK,Bank Transfer
+O000377,C0247,2024-03-01,Beauty,Shampoo,2,139.04,UK,Credit Card
+O000378,C0076,2024-05-06,Home,Pillow,1,129.96,France,PayPal
+O000379,C0154,2023-05-22,Home,Lamp,4,61.41,UK,PayPal
+O000380,C0144,2023-11-09,Accessories,Watch,4,57.27,France,PayPal
+O000381,C0086,2023-06-14,Electronics,Keyboard,4,188.99,UK,PayPal
+O000382,C0185,2023-11-10,Home,Pillow,3,66.67,Germany,Credit Card
+O000383,C0285,2023-01-21,Electronics,Mouse,4,157.35,France,Credit Card
+O000384,C0220,2023-03-23,Sports,Backpack,2,84.69,Spain,Bank Transfer
+O000385,C0069,2024-08-03,Sports,Yoga Mat,2,36.46,Italy,PayPal
+O000386,C0047,2023-05-11,Home,Pillow,3,12.04,France,Credit Card
+O000387,C0094,2024-08-21,Beauty,Shampoo,3,113.41,Germany,PayPal
+O000388,C0238,2023-11-01,Sports,Backpack,4,195.4,Spain,PayPal
+O000389,C0204,2024-01-06,Clothing,T-Shirt,1,80.14,Spain,Credit Card
+O000390,C0218,2024-01-19,Clothing,T-Shirt,3,77.87,Italy,Credit Card
+O000391,C0039,2024-03-20,Sports,Sneakers,3,75.38,Spain,PayPal
+O000392,C0100,2024-02-29,Sports,Yoga Mat,4,108.9,Spain,Credit Card
+O000393,C0289,2023-06-10,Home,Cookware,4,93.73,Germany,Bank Transfer
+O000394,C0254,2023-06-27,Accessories,Watch,3,177.18,Germany,Bank Transfer
+O000395,C0222,2024-09-20,Sports,Sneakers,1,106.05,Germany,PayPal
+O000396,C0023,2024-05-04,Beauty,Shampoo,3,106.47,Italy,Credit Card
+O000397,C0250,2023-11-23,Electronics,Headphones,4,36.29,Germany,Credit Card
+O000398,C0010,2024-08-20,Electronics,Keyboard,4,196.72,UK,PayPal
+O000399,C0246,2023-10-16,Home,Pillow,3,57.49,UK,PayPal
+O000400,C0100,2024-08-15,Clothing,Jeans,1,23.94,Italy,Bank Transfer
+O000401,C0290,2024-07-26,Accessories,Belt,3,136.0,Germany,PayPal
+O000402,C0180,2024-07-26,Accessories,Belt,3,123.12,Spain,Bank Transfer
+O000403,C0223,2023-12-20,Clothing,Jeans,4,88.88,UK,Credit Card
+O000404,C0250,2023-01-28,Beauty,Cream,1,90.22,Germany,Credit Card
+O000405,C0147,2023-02-12,Clothing,Jacket,2,159.16,France,Credit Card
+O000406,C0096,2024-02-27,Electronics,Keyboard,1,47.19,Germany,PayPal
+O000407,C0257,2024-08-20,Beauty,Shampoo,3,165.85,UK,Credit Card
+O000408,C0004,2023-06-26,Clothing,T-Shirt,3,133.26,France,Bank Transfer
+O000409,C0016,2024-06-12,Electronics,Headphones,3,89.6,UK,PayPal
+O000410,C0280,2024-09-01,Home,Pillow,1,97.03,Italy,Credit Card
+O000411,C0247,2024-05-08,Beauty,Shampoo,4,58.76,Spain,Bank Transfer
+O000412,C0258,2023-07-17,Home,Pillow,3,152.9,Italy,Bank Transfer
+O000413,C0160,2024-09-01,Accessories,Belt,3,107.45,Italy,Credit Card
+O000414,C0152,2024-07-30,Electronics,Headphones,1,70.96,France,Bank Transfer
+O000415,C0178,2024-05-31,Clothing,T-Shirt,2,123.25,France,Bank Transfer
+O000416,C0163,2024-05-28,Sports,Backpack,2,199.19,France,PayPal
+O000417,C0033,2023-01-22,Accessories,Watch,4,92.7,UK,Credit Card
+O000418,C0179,2023-04-22,Accessories,Watch,4,184.93,Spain,Credit Card
+O000419,C0101,2023-02-26,Clothing,Jeans,3,75.55,Italy,Bank Transfer
+O000420,C0268,2023-03-07,Clothing,Jacket,1,20.4,France,Credit Card
+O000421,C0065,2023-04-08,Accessories,Belt,3,48.81,Spain,Credit Card
+O000422,C0168,2023-05-24,Home,Pillow,4,89.55,Spain,PayPal
+O000423,C0043,2024-03-10,Clothing,T-Shirt,1,51.73,Spain,Credit Card
+O000424,C0044,2024-09-28,Sports,Backpack,1,10.04,UK,Bank Transfer
+O000425,C0285,2023-03-27,Accessories,Necklace,4,183.85,Spain,Bank Transfer
+O000426,C0012,2024-08-10,Sports,Backpack,2,170.34,UK,Credit Card
+O000427,C0095,2023-12-10,Electronics,Keyboard,2,151.04,Italy,Credit Card
+O000428,C0253,2023-10-21,Sports,Sneakers,1,41.88,Italy,PayPal
+O000429,C0242,2024-07-24,Sports,Sneakers,3,32.87,UK,Credit Card
+O000430,C0035,2024-10-11,Sports,Sneakers,2,22.84,Germany,Credit Card
+O000431,C0215,2024-09-02,Clothing,T-Shirt,3,147.57,Italy,PayPal
+O000432,C0090,2023-08-31,Accessories,Necklace,2,186.47,Spain,Bank Transfer
+O000433,C0264,2024-07-14,Clothing,T-Shirt,2,91.8,Italy,Bank Transfer
+O000434,C0093,2023-02-01,Accessories,Belt,3,32.64,Italy,PayPal
+O000435,C0090,2024-01-26,Electronics,Keyboard,4,107.35,Germany,Credit Card
+O000436,C0115,2023-10-04,Beauty,Shampoo,2,76.28,Germany,PayPal
+O000437,C0105,2024-06-15,Clothing,Jeans,2,81.22,France,Bank Transfer
+O000438,C0196,2023-06-03,Home,Cookware,3,128.05,France,Credit Card
+O000439,C0114,2024-01-18,Accessories,Necklace,4,146.56,UK,Bank Transfer
+O000440,C0075,2023-03-09,Electronics,Mouse,2,31.01,France,Bank Transfer
+O000441,C0217,2023-08-02,Accessories,Watch,2,16.76,France,Credit Card
+O000442,C0277,2024-01-11,Sports,Sneakers,4,198.92,Italy,PayPal
+O000443,C0249,2023-08-01,Home,Lamp,2,54.22,France,PayPal
+O000444,C0164,2023-03-20,Sports,Sneakers,4,20.23,UK,PayPal
+O000445,C0192,2024-09-19,Electronics,Headphones,4,46.08,Italy,Credit Card
+O000446,C0227,2024-08-26,Beauty,Shampoo,3,17.4,Italy,Bank Transfer
+O000447,C0177,2024-01-16,Accessories,Belt,1,84.44,UK,Bank Transfer
+O000448,C0099,2023-02-27,Beauty,Cream,4,162.46,Germany,Bank Transfer
+O000449,C0036,2023-01-26,Electronics,Keyboard,3,74.84,Italy,PayPal
+O000450,C0096,2024-03-22,Accessories,Necklace,1,94.39,Italy,Credit Card
+O000451,C0152,2023-03-07,Sports,Yoga Mat,2,138.36,Italy,PayPal
+O000452,C0151,2023-09-11,Home,Pillow,1,106.69,France,Credit Card
+O000453,C0190,2023-02-13,Sports,Backpack,4,173.67,Spain,Credit Card
+O000454,C0224,2023-04-07,Electronics,Mouse,4,174.55,Germany,Credit Card
+O000455,C0037,2024-07-07,Accessories,Belt,4,11.88,Italy,Bank Transfer
+O000456,C0268,2023-08-15,Clothing,T-Shirt,4,157.83,Spain,Bank Transfer
+O000457,C0183,2024-03-11,Home,Pillow,4,97.54,France,Credit Card
+O000458,C0013,2024-08-23,Electronics,Headphones,3,197.88,UK,PayPal
+O000459,C0279,2024-01-14,Beauty,Perfume,4,101.81,France,Credit Card
+O000460,C0217,2023-06-27,Home,Cookware,3,197.51,Italy,Bank Transfer
+O000461,C0286,2024-03-02,Clothing,Jacket,2,153.37,Italy,Bank Transfer
+O000462,C0273,2023-11-03,Clothing,Jacket,4,57.23,Germany,Credit Card
+O000463,C0062,2024-05-18,Sports,Sneakers,4,112.3,Spain,PayPal
+O000464,C0084,2023-09-25,Home,Lamp,1,198.51,Germany,Bank Transfer
+O000465,C0217,2024-08-08,Beauty,Shampoo,2,172.93,Germany,Credit Card
+O000466,C0187,2023-01-08,Electronics,Keyboard,4,28.5,Germany,PayPal
+O000467,C0019,2024-05-22,Electronics,Headphones,4,144.21,Italy,PayPal
+O000468,C0177,2024-04-20,Electronics,Mouse,2,75.66,UK,PayPal
+O000469,C0100,2023-10-24,Home,Pillow,3,11.33,Spain,PayPal
+O000470,C0233,2023-06-13,Accessories,Belt,4,86.66,UK,PayPal
+O000471,C0076,2024-04-29,Clothing,T-Shirt,1,54.6,France,Bank Transfer
+O000472,C0265,2024-08-19,Electronics,Headphones,4,165.59,UK,PayPal
+O000473,C0284,2023-03-13,Beauty,Perfume,1,74.09,Italy,Bank Transfer
+O000474,C0206,2024-07-20,Clothing,Jacket,1,167.23,Italy,Bank Transfer
+O000475,C0223,2024-07-12,Home,Pillow,4,10.11,UK,Credit Card
+O000476,C0052,2023-08-26,Home,Pillow,4,68.49,Spain,Bank Transfer
+O000477,C0144,2023-04-14,Clothing,Jacket,1,55.82,France,Bank Transfer
+O000478,C0069,2023-07-29,Beauty,Shampoo,2,54.38,Italy,PayPal
+O000479,C0099,2024-07-07,Sports,Sneakers,2,22.96,Germany,Credit Card
+O000480,C0025,2024-04-12,Home,Cookware,4,45.55,UK,Bank Transfer
+O000481,C0053,2024-03-29,Electronics,Keyboard,3,115.55,France,Credit Card
+O000482,C0151,2023-09-25,Sports,Backpack,2,65.36,Spain,Bank Transfer
+O000483,C0144,2024-01-21,Home,Lamp,4,89.31,France,Credit Card
+O000484,C0057,2024-01-22,Home,Pillow,2,81.6,France,Bank Transfer
+O000485,C0039,2023-09-16,Sports,Sneakers,3,176.42,Germany,Credit Card
+O000486,C0109,2023-10-10,Beauty,Perfume,4,182.01,Italy,Bank Transfer
+O000487,C0181,2024-09-17,Beauty,Perfume,3,103.66,UK,Bank Transfer
+O000488,C0042,2023-02-09,Beauty,Shampoo,4,72.73,France,Credit Card
+O000489,C0186,2024-04-30,Home,Pillow,3,30.29,France,Bank Transfer
+O000490,C0223,2023-08-08,Electronics,Headphones,2,191.15,UK,PayPal
+O000491,C0122,2023-05-09,Accessories,Watch,2,21.44,France,Bank Transfer
+O000492,C0133,2024-06-03,Home,Pillow,3,66.55,Germany,Credit Card
+O000493,C0163,2024-09-04,Clothing,T-Shirt,3,66.63,Spain,PayPal
+O000494,C0215,2024-09-10,Accessories,Necklace,3,70.88,Spain,Bank Transfer
+O000495,C0221,2024-09-04,Beauty,Perfume,4,41.21,France,Bank Transfer
+O000496,C0235,2023-09-17,Electronics,Headphones,2,158.8,Spain,PayPal
+O000497,C0146,2024-01-01,Home,Lamp,4,33.27,Italy,Bank Transfer
+O000498,C0239,2024-06-27,Clothing,Jeans,2,130.63,Spain,Credit Card
+O000499,C0076,2024-10-10,Beauty,Shampoo,1,33.53,Germany,PayPal
+O000500,C0009,2024-06-07,Home,Pillow,4,23.4,Germany,Bank Transfer
+O000501,C0074,2023-01-16,Electronics,Headphones,2,182.79,Spain,Credit Card
+O000502,C0253,2023-05-09,Beauty,Shampoo,2,46.12,UK,PayPal
+O000503,C0230,2024-07-28,Accessories,Belt,4,166.04,UK,PayPal
+O000504,C0007,2023-04-19,Home,Pillow,4,113.48,Italy,Bank Transfer
+O000505,C0174,2024-06-16,Sports,Yoga Mat,2,24.79,Spain,Bank Transfer
+O000506,C0141,2023-09-26,Clothing,Jeans,4,191.54,Germany,PayPal
+O000507,C0168,2023-06-11,Sports,Yoga Mat,3,56.92,France,Bank Transfer
+O000508,C0170,2023-09-17,Beauty,Shampoo,4,173.33,France,Credit Card
+O000509,C0283,2023-04-12,Clothing,T-Shirt,4,42.07,UK,Credit Card
+O000510,C0122,2024-05-20,Electronics,Keyboard,4,172.25,France,Credit Card
+O000511,C0194,2024-07-24,Accessories,Watch,2,12.51,Germany,Credit Card
+O000512,C0005,2023-09-04,Sports,Yoga Mat,3,107.24,Italy,PayPal
+O000513,C0029,2024-10-01,Clothing,T-Shirt,1,156.19,Spain,Credit Card
+O000514,C0165,2024-06-20,Home,Lamp,1,187.61,Spain,Credit Card
+O000515,C0136,2023-05-11,Accessories,Watch,3,182.75,UK,Bank Transfer
+O000516,C0145,2023-12-19,Electronics,Keyboard,3,165.73,Italy,Credit Card
+O000517,C0217,2023-07-15,Beauty,Cream,3,178.76,France,PayPal
+O000518,C0132,2024-01-17,Beauty,Cream,2,47.85,France,Credit Card
+O000519,C0292,2024-10-06,Clothing,Jacket,1,64.0,France,Credit Card
+O000520,C0070,2023-08-15,Sports,Backpack,3,64.9,Germany,Bank Transfer
+O000521,C0252,2024-04-20,Accessories,Watch,2,81.64,France,PayPal
+O000522,C0275,2024-04-21,Electronics,Keyboard,1,84.73,Italy,PayPal
+O000523,C0182,2023-09-22,Sports,Sneakers,4,113.47,France,Credit Card
+O000524,C0167,2024-01-07,Sports,Backpack,2,40.38,Germany,PayPal
+O000525,C0091,2024-04-30,Clothing,Jacket,1,141.34,France,Credit Card
+O000526,C0202,2024-03-09,Beauty,Shampoo,2,41.84,Germany,Credit Card
+O000527,C0019,2024-10-07,Home,Cookware,1,68.96,Germany,Bank Transfer
+O000528,C0039,2023-07-30,Clothing,T-Shirt,1,105.64,Spain,PayPal
+O000529,C0126,2024-07-25,Home,Cookware,4,161.32,France,Credit Card
+O000530,C0173,2024-01-12,Accessories,Belt,2,150.5,Italy,Bank Transfer
+O000531,C0141,2024-01-30,Home,Pillow,3,132.65,Spain,PayPal
+O000532,C0242,2024-03-25,Sports,Sneakers,4,39.6,Germany,Bank Transfer
+O000533,C0220,2023-12-30,Beauty,Cream,4,113.94,Spain,PayPal
+O000534,C0126,2024-04-01,Accessories,Necklace,1,26.61,Germany,Credit Card
+O000535,C0058,2023-08-14,Home,Lamp,3,81.7,Italy,PayPal
+O000536,C0148,2023-05-11,Sports,Yoga Mat,2,88.57,UK,PayPal
+O000537,C0001,2024-08-10,Sports,Backpack,3,17.56,UK,Credit Card
+O000538,C0190,2024-04-20,Beauty,Shampoo,3,62.06,Italy,Bank Transfer
+O000539,C0191,2023-10-04,Accessories,Watch,3,191.57,Italy,Credit Card
+O000540,C0117,2023-06-05,Sports,Yoga Mat,3,191.19,Spain,PayPal
+O000541,C0134,2023-08-06,Clothing,T-Shirt,3,76.94,Italy,PayPal
+O000542,C0058,2023-07-09,Sports,Backpack,1,18.19,Spain,Bank Transfer
+O000543,C0044,2024-02-21,Sports,Backpack,1,44.03,France,Bank Transfer
+O000544,C0173,2024-06-29,Electronics,Keyboard,4,84.52,France,PayPal
+O000545,C0160,2023-02-10,Sports,Sneakers,1,190.08,France,PayPal
+O000546,C0173,2023-11-03,Home,Lamp,4,36.83,UK,PayPal
+O000547,C0149,2023-12-04,Electronics,Headphones,4,155.07,Italy,PayPal
+O000548,C0080,2023-11-10,Home,Pillow,2,30.65,Germany,PayPal
+O000549,C0213,2023-03-16,Sports,Yoga Mat,3,196.44,France,Bank Transfer
+O000550,C0203,2023-10-06,Sports,Backpack,1,82.51,UK,PayPal
+O000551,C0252,2023-06-25,Clothing,Jacket,2,157.29,UK,PayPal
+O000552,C0229,2023-09-30,Clothing,T-Shirt,1,75.09,Germany,PayPal
+O000553,C0164,2024-09-11,Beauty,Cream,4,129.26,Spain,PayPal
+O000554,C0227,2023-10-16,Sports,Sneakers,1,46.48,France,PayPal
+O000555,C0147,2023-09-29,Clothing,Jeans,3,37.74,Italy,Credit Card
+O000556,C0020,2023-03-07,Beauty,Shampoo,4,188.23,Germany,PayPal
+O000557,C0047,2024-04-27,Accessories,Belt,4,184.35,UK,PayPal
+O000558,C0233,2023-09-05,Sports,Yoga Mat,2,178.62,Germany,PayPal
+O000559,C0014,2023-06-05,Electronics,Keyboard,3,128.83,Spain,Credit Card
+O000560,C0143,2023-02-16,Accessories,Necklace,4,163.57,France,Bank Transfer
+O000561,C0001,2024-03-29,Home,Lamp,3,23.12,France,Credit Card
+O000562,C0054,2023-07-20,Electronics,Keyboard,1,73.61,Spain,Bank Transfer
+O000563,C0259,2023-05-04,Electronics,Headphones,3,69.6,Italy,Bank Transfer
+O000564,C0144,2023-01-01,Electronics,Keyboard,4,130.77,Spain,Credit Card
+O000565,C0012,2024-10-01,Accessories,Necklace,2,77.63,Spain,Bank Transfer
+O000566,C0224,2023-07-10,Beauty,Perfume,4,38.22,Italy,PayPal
+O000567,C0272,2024-08-01,Electronics,Headphones,3,123.33,France,Credit Card
+O000568,C0156,2024-05-30,Clothing,Jeans,3,164.73,Italy,PayPal
+O000569,C0008,2024-03-17,Home,Lamp,4,82.6,Italy,PayPal
+O000570,C0122,2023-05-23,Electronics,Keyboard,3,35.13,Germany,Bank Transfer
+O000571,C0164,2023-07-10,Electronics,Headphones,1,47.37,Spain,Bank Transfer
+O000572,C0090,2024-06-16,Clothing,Jacket,4,55.12,UK,Credit Card
+O000573,C0136,2023-08-15,Accessories,Watch,2,66.98,UK,PayPal
+O000574,C0186,2023-11-09,Sports,Yoga Mat,4,132.13,UK,PayPal
+O000575,C0178,2024-09-20,Accessories,Belt,1,124.18,France,Bank Transfer
+O000576,C0028,2023-10-29,Beauty,Perfume,1,142.26,Italy,Credit Card
+O000577,C0220,2024-04-04,Clothing,Jacket,1,78.88,Italy,Bank Transfer
+O000578,C0041,2024-02-05,Home,Lamp,1,166.56,Italy,Credit Card
+O000579,C0228,2024-07-04,Accessories,Belt,1,48.78,Spain,PayPal
+O000580,C0192,2024-01-28,Home,Cookware,2,99.12,Germany,Credit Card
+O000581,C0145,2023-07-26,Accessories,Watch,3,162.18,UK,Bank Transfer
+O000582,C0201,2023-07-29,Clothing,Jacket,1,44.23,Germany,PayPal
+O000583,C0212,2023-04-25,Beauty,Cream,1,30.87,France,PayPal
+O000584,C0220,2024-10-07,Accessories,Belt,4,177.9,UK,PayPal
+O000585,C0240,2023-09-08,Electronics,Headphones,2,75.16,UK,Credit Card
+O000586,C0046,2023-08-07,Home,Lamp,2,139.94,Italy,Credit Card
+O000587,C0035,2024-02-11,Home,Cookware,3,14.82,Germany,Credit Card
+O000588,C0253,2024-03-18,Sports,Yoga Mat,2,141.11,Germany,Bank Transfer
+O000589,C0082,2024-08-25,Sports,Sneakers,4,70.06,Spain,Credit Card
+O000590,C0256,2023-12-20,Home,Lamp,4,20.59,UK,Bank Transfer
+O000591,C0197,2024-07-11,Home,Cookware,3,125.86,UK,PayPal
+O000592,C0010,2024-07-03,Sports,Sneakers,4,55.75,Italy,PayPal
+O000593,C0286,2023-05-22,Sports,Backpack,1,83.49,UK,Bank Transfer
+O000594,C0242,2024-09-03,Sports,Backpack,1,25.31,Italy,Credit Card
+O000595,C0251,2024-05-15,Sports,Backpack,4,37.96,Italy,PayPal
+O000596,C0005,2024-06-30,Beauty,Shampoo,3,66.62,Spain,Credit Card
+O000597,C0119,2024-06-25,Sports,Backpack,2,27.05,Italy,PayPal
+O000598,C0289,2024-05-21,Electronics,Keyboard,3,183.06,Italy,Credit Card
+O000599,C0065,2024-08-18,Home,Pillow,2,11.15,France,PayPal
+O000600,C0146,2023-10-08,Clothing,T-Shirt,4,101.93,Italy,Credit Card
+O000601,C0224,2024-02-28,Beauty,Perfume,4,33.42,Italy,Bank Transfer
+O000602,C0239,2023-09-27,Accessories,Necklace,1,68.46,Germany,Bank Transfer
+O000603,C0177,2023-06-03,Home,Lamp,2,185.95,France,Bank Transfer
+O000604,C0267,2024-09-05,Accessories,Necklace,3,40.72,Germany,Credit Card
+O000605,C0282,2023-03-24,Sports,Backpack,4,193.51,Italy,Bank Transfer
+O000606,C0063,2024-09-13,Sports,Yoga Mat,3,49.1,UK,PayPal
+O000607,C0217,2024-03-01,Clothing,Jacket,1,150.9,Spain,PayPal
+O000608,C0283,2023-10-02,Sports,Backpack,2,113.87,UK,PayPal
+O000609,C0177,2023-10-11,Clothing,Jeans,2,178.05,Spain,PayPal
+O000610,C0098,2023-06-22,Beauty,Shampoo,4,115.26,UK,PayPal
+O000611,C0105,2023-11-23,Sports,Backpack,2,111.57,Spain,Bank Transfer
+O000612,C0099,2023-03-04,Clothing,Jeans,4,47.14,Germany,Credit Card
+O000613,C0006,2023-03-14,Sports,Backpack,1,41.58,France,Bank Transfer
+O000614,C0197,2024-09-27,Home,Lamp,2,184.13,Germany,Credit Card
+O000615,C0133,2024-01-10,Sports,Sneakers,4,72.29,France,PayPal
+O000616,C0259,2024-09-24,Sports,Yoga Mat,3,80.7,Germany,Bank Transfer
+O000617,C0023,2024-05-22,Clothing,Jacket,4,154.37,Germany,PayPal
+O000618,C0053,2024-02-02,Home,Lamp,2,74.38,Spain,Bank Transfer
+O000619,C0165,2023-04-30,Clothing,Jacket,1,190.89,Italy,Bank Transfer
+O000620,C0202,2024-03-12,Home,Pillow,2,150.21,France,PayPal
+O000621,C0083,2024-04-09,Sports,Backpack,2,123.51,Italy,Credit Card
+O000622,C0145,2023-10-13,Electronics,Keyboard,4,177.37,Germany,PayPal
+O000623,C0085,2023-09-22,Sports,Yoga Mat,3,19.43,France,Bank Transfer
+O000624,C0078,2023-11-16,Accessories,Watch,2,58.84,Italy,Bank Transfer
+O000625,C0001,2024-01-11,Electronics,Headphones,3,98.36,Italy,PayPal
+O000626,C0051,2023-03-30,Home,Pillow,4,53.13,Germany,Credit Card
+O000627,C0173,2023-07-22,Accessories,Watch,3,151.34,France,PayPal
+O000628,C0205,2023-11-30,Home,Lamp,4,184.65,France,Bank Transfer
+O000629,C0260,2023-08-10,Electronics,Keyboard,1,90.52,France,Bank Transfer
+O000630,C0288,2023-02-10,Home,Lamp,3,75.01,Spain,PayPal
+O000631,C0034,2023-03-09,Sports,Backpack,3,192.69,Italy,Bank Transfer
+O000632,C0095,2024-05-28,Clothing,Jacket,1,94.52,Germany,Bank Transfer
+O000633,C0072,2024-09-28,Electronics,Keyboard,3,102.92,France,Credit Card
+O000634,C0039,2024-09-13,Clothing,T-Shirt,1,76.81,Spain,Bank Transfer
+O000635,C0154,2024-08-20,Sports,Backpack,2,182.81,Germany,Bank Transfer
+O000636,C0250,2024-09-23,Electronics,Keyboard,4,118.1,Germany,Bank Transfer
+O000637,C0162,2023-05-07,Beauty,Perfume,1,154.81,UK,Bank Transfer
+O000638,C0118,2023-09-12,Beauty,Cream,3,164.24,France,Bank Transfer
+O000639,C0259,2023-01-16,Accessories,Watch,1,74.95,France,Bank Transfer
+O000640,C0268,2024-04-21,Sports,Backpack,3,92.4,Italy,PayPal
+O000641,C0054,2023-03-03,Clothing,T-Shirt,2,171.21,Italy,PayPal
+O000642,C0236,2024-03-07,Beauty,Perfume,1,79.02,Italy,PayPal
+O000643,C0222,2023-09-25,Sports,Backpack,2,160.85,UK,PayPal
+O000644,C0251,2023-02-04,Accessories,Belt,4,188.79,Germany,Bank Transfer
+O000645,C0112,2024-07-29,Beauty,Perfume,3,128.41,Germany,Credit Card
+O000646,C0255,2024-05-08,Home,Lamp,3,150.91,Italy,Bank Transfer
+O000647,C0207,2024-07-15,Sports,Sneakers,2,162.97,Germany,PayPal
+O000648,C0229,2024-04-13,Home,Pillow,4,170.56,Italy,Bank Transfer
+O000649,C0066,2023-11-21,Home,Pillow,1,85.06,Germany,Bank Transfer
+O000650,C0075,2023-10-31,Beauty,Shampoo,1,19.74,Germany,Credit Card
+O000651,C0103,2023-10-03,Clothing,Jacket,3,86.36,France,Credit Card
+O000652,C0192,2023-07-20,Electronics,Headphones,2,138.01,France,PayPal
+O000653,C0252,2024-03-20,Accessories,Watch,2,95.57,UK,PayPal
+O000654,C0226,2023-11-20,Beauty,Cream,1,152.3,France,PayPal
+O000655,C0294,2023-02-04,Clothing,Jeans,4,77.83,Spain,PayPal
+O000656,C0098,2024-04-26,Beauty,Perfume,4,130.6,France,PayPal
+O000657,C0286,2024-04-24,Sports,Yoga Mat,1,45.42,UK,Credit Card
+O000658,C0249,2023-03-06,Electronics,Headphones,1,152.38,UK,Credit Card
+O000659,C0166,2023-01-08,Clothing,Jeans,2,113.68,UK,Credit Card
+O000660,C0030,2023-10-28,Sports,Backpack,4,48.77,Germany,PayPal
+O000661,C0247,2023-12-09,Beauty,Cream,1,65.46,Spain,PayPal
+O000662,C0106,2024-03-06,Sports,Sneakers,1,152.24,Italy,PayPal
+O000663,C0051,2024-02-28,Sports,Yoga Mat,3,101.69,France,PayPal
+O000664,C0081,2023-11-28,Beauty,Cream,1,51.05,Spain,PayPal
+O000665,C0133,2024-03-13,Accessories,Belt,1,193.78,UK,Bank Transfer
+O000666,C0285,2024-08-10,Electronics,Keyboard,4,145.87,France,PayPal
+O000667,C0138,2023-06-23,Electronics,Mouse,2,191.86,Spain,Credit Card
+O000668,C0184,2024-07-12,Accessories,Necklace,4,91.15,Italy,Bank Transfer
+O000669,C0273,2024-06-10,Home,Lamp,2,100.27,Germany,Bank Transfer
+O000670,C0069,2023-01-26,Sports,Sneakers,3,180.61,Italy,Bank Transfer
+O000671,C0034,2024-08-27,Electronics,Headphones,1,109.76,Germany,PayPal
+O000672,C0262,2024-02-10,Home,Lamp,3,144.38,Italy,PayPal
+O000673,C0053,2023-08-20,Accessories,Watch,2,57.91,France,PayPal
+O000674,C0205,2024-06-16,Sports,Backpack,4,94.88,France,PayPal
+O000675,C0126,2024-07-03,Home,Lamp,4,33.46,Germany,Bank Transfer
+O000676,C0235,2024-05-19,Home,Cookware,3,49.14,Spain,Bank Transfer
+O000677,C0043,2023-06-28,Accessories,Necklace,2,10.18,Spain,PayPal
+O000678,C0240,2023-05-12,Home,Pillow,3,17.46,UK,Bank Transfer
+O000679,C0111,2024-03-30,Clothing,Jacket,3,195.68,Italy,PayPal
+O000680,C0249,2023-12-14,Sports,Backpack,1,56.05,France,Bank Transfer
+O000681,C0151,2024-06-23,Beauty,Cream,3,136.03,Germany,Bank Transfer
+O000682,C0183,2024-02-10,Home,Lamp,1,169.43,Germany,Credit Card
+O000683,C0095,2023-03-17,Home,Lamp,1,114.63,UK,Bank Transfer
+O000684,C0008,2024-08-01,Beauty,Shampoo,4,39.1,Spain,PayPal
+O000685,C0184,2024-05-06,Sports,Sneakers,1,148.34,France,PayPal
+O000686,C0281,2023-07-13,Clothing,Jeans,1,124.05,Spain,Bank Transfer
+O000687,C0195,2023-06-11,Clothing,Jeans,4,148.94,Italy,PayPal
+O000688,C0195,2023-12-13,Electronics,Mouse,3,156.25,Germany,Bank Transfer
+O000689,C0155,2023-12-27,Sports,Sneakers,2,195.33,Italy,Bank Transfer
+O000690,C0093,2024-08-06,Electronics,Keyboard,2,118.98,UK,Bank Transfer
+O000691,C0160,2023-03-28,Accessories,Necklace,2,74.91,Spain,Credit Card
+O000692,C0061,2023-09-19,Home,Cookware,3,133.21,Italy,PayPal
+O000693,C0122,2023-08-02,Home,Cookware,1,23.0,Spain,Credit Card
+O000694,C0051,2024-07-26,Beauty,Perfume,2,180.51,UK,Credit Card
+O000695,C0277,2023-09-19,Clothing,Jacket,3,32.68,UK,Bank Transfer
+O000696,C0005,2023-10-10,Home,Cookware,1,72.29,Italy,Credit Card
+O000697,C0092,2024-10-09,Accessories,Necklace,4,164.99,Germany,Credit Card
+O000698,C0170,2024-04-11,Sports,Yoga Mat,2,123.49,Spain,Credit Card
+O000699,C0022,2024-01-15,Electronics,Mouse,1,84.79,Italy,PayPal
+O000700,C0001,2023-12-28,Home,Lamp,2,99.95,Germany,PayPal
+O000701,C0133,2024-03-24,Clothing,Jacket,2,172.36,France,Bank Transfer
+O000702,C0233,2024-03-16,Sports,Backpack,2,74.6,Italy,PayPal
+O000703,C0012,2023-04-03,Sports,Backpack,1,175.23,Spain,PayPal
+O000704,C0046,2024-09-12,Accessories,Necklace,3,26.75,France,Credit Card
+O000705,C0034,2024-02-28,Sports,Backpack,1,157.59,Spain,PayPal
+O000706,C0078,2023-05-22,Clothing,Jeans,2,171.03,Italy,Bank Transfer
+O000707,C0218,2023-10-18,Accessories,Belt,1,44.55,France,Credit Card
+O000708,C0073,2024-03-07,Accessories,Necklace,4,91.77,Germany,PayPal
+O000709,C0282,2023-02-18,Sports,Sneakers,3,41.44,Italy,PayPal
+O000710,C0249,2023-10-29,Home,Lamp,1,144.25,France,Bank Transfer
+O000711,C0047,2023-07-09,Sports,Sneakers,4,111.72,Spain,PayPal
+O000712,C0121,2023-05-16,Clothing,Jacket,3,130.71,Germany,Bank Transfer
+O000713,C0214,2024-07-08,Beauty,Perfume,4,47.33,France,Bank Transfer
+O000714,C0239,2024-02-08,Sports,Yoga Mat,3,50.23,Germany,Credit Card
+O000715,C0056,2024-08-24,Home,Pillow,1,17.88,France,Bank Transfer
+O000716,C0107,2023-12-07,Clothing,T-Shirt,4,71.19,Italy,PayPal
+O000717,C0048,2023-11-14,Sports,Sneakers,2,116.35,France,Credit Card
+O000718,C0061,2024-09-09,Sports,Sneakers,4,173.01,Italy,Credit Card
+O000719,C0026,2023-12-29,Electronics,Headphones,3,136.72,UK,Bank Transfer
+O000720,C0292,2024-01-17,Clothing,T-Shirt,1,92.73,Italy,Bank Transfer
+O000721,C0257,2023-08-21,Sports,Sneakers,3,191.09,UK,PayPal
+O000722,C0008,2023-12-10,Accessories,Watch,4,146.66,Spain,Bank Transfer
+O000723,C0113,2024-07-02,Sports,Sneakers,4,186.73,Spain,PayPal
+O000724,C0253,2024-07-06,Electronics,Keyboard,2,110.24,Spain,Credit Card
+O000725,C0180,2024-06-12,Clothing,Jacket,1,59.19,Germany,Credit Card
+O000726,C0207,2024-07-24,Beauty,Shampoo,1,20.04,Spain,Bank Transfer
+O000727,C0127,2023-07-02,Home,Cookware,4,147.96,Spain,Credit Card
+O000728,C0056,2023-02-10,Electronics,Keyboard,1,33.05,UK,PayPal
+O000729,C0214,2024-07-04,Home,Lamp,2,67.53,Germany,Bank Transfer
+O000730,C0014,2024-02-01,Clothing,Jacket,3,111.17,France,Bank Transfer
+O000731,C0028,2024-05-08,Accessories,Belt,1,117.24,Italy,Bank Transfer
+O000732,C0078,2023-11-29,Sports,Backpack,4,124.11,Italy,Bank Transfer
+O000733,C0216,2023-05-07,Electronics,Headphones,3,41.59,Germany,Bank Transfer
+O000734,C0154,2024-07-11,Home,Cookware,3,82.15,Spain,PayPal
+O000735,C0014,2024-07-10,Accessories,Necklace,2,127.27,UK,Credit Card
+O000736,C0187,2023-01-01,Sports,Sneakers,4,194.27,UK,PayPal
+O000737,C0007,2023-06-17,Home,Pillow,1,148.25,Germany,Credit Card
+O000738,C0003,2024-09-11,Beauty,Shampoo,4,185.29,Germany,PayPal
+O000739,C0111,2023-01-19,Clothing,T-Shirt,3,154.82,UK,Bank Transfer
+O000740,C0238,2023-11-28,Sports,Sneakers,4,122.43,France,Bank Transfer
+O000741,C0239,2024-08-06,Clothing,Jeans,1,46.48,Italy,PayPal
+O000742,C0274,2024-03-31,Clothing,Jeans,1,136.67,Italy,Bank Transfer
+O000743,C0294,2023-04-19,Sports,Yoga Mat,2,128.44,Germany,Bank Transfer
+O000744,C0227,2023-09-25,Home,Cookware,1,124.47,UK,Credit Card
+O000745,C0015,2024-03-20,Accessories,Watch,1,103.06,France,PayPal
+O000746,C0192,2023-08-28,Accessories,Necklace,4,110.44,Spain,Credit Card
+O000747,C0119,2023-10-28,Clothing,T-Shirt,4,73.54,France,PayPal
+O000748,C0028,2024-08-24,Accessories,Necklace,3,108.67,Germany,Bank Transfer
+O000749,C0202,2023-04-13,Electronics,Headphones,2,47.54,UK,Bank Transfer
+O000750,C0039,2023-09-07,Electronics,Mouse,4,162.98,Italy,PayPal
+O000751,C0273,2024-03-28,Clothing,Jacket,1,45.3,Germany,Bank Transfer
+O000752,C0231,2024-06-03,Electronics,Mouse,3,26.14,Italy,Credit Card
+O000753,C0086,2023-06-02,Home,Lamp,4,92.89,Spain,Bank Transfer
+O000754,C0126,2023-06-23,Home,Pillow,2,135.08,Italy,Credit Card
+O000755,C0300,2023-12-09,Clothing,T-Shirt,2,93.17,Germany,Bank Transfer
+O000756,C0025,2024-03-06,Electronics,Headphones,3,62.58,Italy,Bank Transfer
+O000757,C0145,2023-11-20,Electronics,Headphones,3,116.05,Spain,Credit Card
+O000758,C0013,2024-09-30,Beauty,Cream,3,75.93,Germany,Bank Transfer
+O000759,C0212,2024-02-24,Clothing,Jacket,3,187.24,Germany,Credit Card
+O000760,C0025,2024-08-16,Electronics,Keyboard,3,185.3,Italy,Bank Transfer
+O000761,C0068,2024-04-29,Home,Lamp,1,105.45,UK,Credit Card
+O000762,C0067,2024-02-16,Electronics,Keyboard,1,72.3,Spain,PayPal
+O000763,C0233,2023-03-25,Home,Pillow,4,150.06,Spain,PayPal
+O000764,C0109,2023-04-23,Home,Lamp,2,16.98,Italy,PayPal
+O000765,C0146,2023-11-28,Clothing,Jeans,1,100.21,Spain,Bank Transfer
+O000766,C0111,2024-01-13,Electronics,Mouse,1,73.9,Germany,Credit Card
+O000767,C0228,2023-02-10,Home,Pillow,1,184.9,Germany,Credit Card
+O000768,C0111,2023-04-15,Electronics,Mouse,4,12.28,France,PayPal
+O000769,C0034,2023-07-21,Accessories,Belt,3,115.03,UK,Credit Card
+O000770,C0111,2024-03-25,Accessories,Belt,4,150.73,UK,Bank Transfer
+O000771,C0264,2023-09-23,Accessories,Belt,2,102.15,Italy,Credit Card
+O000772,C0236,2023-07-29,Accessories,Necklace,2,26.23,France,PayPal
+O000773,C0083,2024-07-16,Beauty,Cream,2,194.77,UK,Credit Card
+O000774,C0042,2023-04-28,Accessories,Necklace,2,108.42,UK,Bank Transfer
+O000775,C0101,2024-01-12,Home,Pillow,1,126.7,Spain,Bank Transfer
+O000776,C0006,2024-07-04,Electronics,Mouse,1,54.96,Spain,PayPal
+O000777,C0180,2024-06-23,Electronics,Mouse,4,101.86,Italy,Bank Transfer
+O000778,C0282,2023-03-25,Accessories,Necklace,3,91.54,UK,PayPal
+O000779,C0226,2024-03-29,Home,Lamp,2,24.23,Germany,Credit Card
+O000780,C0229,2024-09-20,Beauty,Shampoo,4,30.17,France,Credit Card
+O000781,C0289,2024-05-28,Clothing,T-Shirt,1,169.12,France,Credit Card
+O000782,C0150,2024-08-27,Electronics,Keyboard,1,55.57,Spain,Credit Card
+O000783,C0277,2024-01-22,Electronics,Keyboard,3,47.04,Spain,PayPal
+O000784,C0198,2023-12-16,Beauty,Perfume,3,105.93,Spain,Bank Transfer
+O000785,C0070,2023-10-23,Beauty,Perfume,3,156.06,Spain,PayPal
+O000786,C0112,2023-09-15,Sports,Yoga Mat,4,21.77,UK,Credit Card
+O000787,C0004,2023-03-22,Sports,Backpack,1,119.59,Spain,Credit Card
+O000788,C0095,2023-09-25,Electronics,Headphones,1,32.65,UK,Bank Transfer
+O000789,C0152,2024-02-23,Beauty,Cream,3,16.93,France,Bank Transfer
+O000790,C0137,2023-08-23,Home,Pillow,2,20.02,Germany,Credit Card
+O000791,C0247,2023-11-07,Electronics,Mouse,3,168.49,France,Bank Transfer
+O000792,C0243,2023-12-23,Beauty,Shampoo,4,32.41,Germany,Bank Transfer
+O000793,C0031,2023-08-01,Sports,Backpack,3,18.58,UK,PayPal
+O000794,C0040,2024-07-27,Accessories,Necklace,3,93.2,Spain,Bank Transfer
+O000795,C0229,2023-02-18,Sports,Sneakers,4,170.36,Germany,PayPal
+O000796,C0036,2023-05-07,Beauty,Shampoo,3,59.86,France,Credit Card
+O000797,C0223,2023-08-11,Home,Lamp,1,90.13,UK,PayPal
+O000798,C0006,2023-10-06,Accessories,Belt,2,17.59,Spain,PayPal
+O000799,C0220,2024-02-12,Sports,Sneakers,3,95.32,Italy,Credit Card
+O000800,C0075,2024-05-19,Beauty,Shampoo,4,119.75,UK,Credit Card
+O000801,C0004,2023-10-21,Home,Cookware,2,118.47,Italy,Bank Transfer
+O000802,C0134,2023-10-04,Electronics,Headphones,4,73.16,Italy,Bank Transfer
+O000803,C0118,2024-03-13,Clothing,Jacket,2,69.95,France,PayPal
+O000804,C0094,2023-04-17,Home,Lamp,2,30.26,UK,Credit Card
+O000805,C0062,2024-02-24,Sports,Sneakers,3,79.69,Spain,Bank Transfer
+O000806,C0194,2024-09-02,Electronics,Keyboard,1,28.9,Spain,Bank Transfer
+O000807,C0203,2024-03-04,Accessories,Watch,3,155.65,Spain,PayPal
+O000808,C0026,2024-01-10,Clothing,Jeans,4,193.59,Italy,Credit Card
+O000809,C0173,2023-03-14,Beauty,Perfume,4,194.31,France,Credit Card
+O000810,C0300,2024-09-25,Beauty,Cream,2,174.36,UK,Bank Transfer
+O000811,C0133,2023-01-30,Accessories,Belt,2,124.15,Germany,Bank Transfer
+O000812,C0118,2023-07-07,Accessories,Watch,1,143.16,Spain,Bank Transfer
+O000813,C0275,2023-12-30,Accessories,Belt,3,64.19,Germany,Bank Transfer
+O000814,C0212,2024-03-26,Beauty,Cream,4,129.85,Germany,Credit Card
+O000815,C0225,2023-07-14,Beauty,Shampoo,2,96.57,UK,Bank Transfer
+O000816,C0020,2023-06-05,Beauty,Shampoo,1,101.58,UK,Credit Card
+O000817,C0113,2023-06-21,Electronics,Mouse,4,153.98,France,Bank Transfer
+O000818,C0140,2023-02-10,Beauty,Cream,2,63.56,Italy,Bank Transfer
+O000819,C0047,2023-03-04,Home,Lamp,4,70.43,Italy,PayPal
+O000820,C0001,2023-01-23,Accessories,Belt,1,185.68,France,Bank Transfer
+O000821,C0090,2023-12-26,Clothing,Jeans,1,20.68,UK,PayPal
+O000822,C0142,2023-03-16,Home,Lamp,4,102.27,Germany,Bank Transfer
+O000823,C0038,2024-07-13,Sports,Yoga Mat,3,183.43,France,Bank Transfer
+O000824,C0293,2023-04-28,Accessories,Belt,4,125.97,Italy,Credit Card
+O000825,C0139,2024-09-03,Accessories,Watch,2,113.82,UK,Bank Transfer
+O000826,C0259,2024-01-15,Beauty,Perfume,3,57.45,France,PayPal
+O000827,C0161,2023-10-17,Beauty,Perfume,2,75.22,France,PayPal
+O000828,C0178,2024-03-15,Beauty,Cream,4,171.89,Germany,PayPal
+O000829,C0010,2023-01-07,Beauty,Cream,3,116.25,Italy,Bank Transfer
+O000830,C0261,2023-07-15,Beauty,Perfume,2,107.8,Italy,Bank Transfer
+O000831,C0138,2024-02-25,Beauty,Perfume,4,28.92,Italy,PayPal
+O000832,C0172,2024-07-21,Clothing,Jeans,4,13.05,Spain,Bank Transfer
+O000833,C0013,2023-07-12,Clothing,Jacket,3,193.1,France,Bank Transfer
+O000834,C0168,2024-07-12,Sports,Yoga Mat,4,81.63,Spain,PayPal
+O000835,C0130,2023-05-28,Electronics,Keyboard,1,124.61,Germany,PayPal
+O000836,C0084,2023-07-21,Clothing,Jacket,2,25.15,Spain,Credit Card
+O000837,C0101,2024-03-19,Beauty,Cream,2,139.79,France,Credit Card
+O000838,C0273,2024-02-23,Home,Lamp,4,187.19,UK,PayPal
+O000839,C0265,2024-03-02,Sports,Sneakers,4,119.38,Spain,Credit Card
+O000840,C0038,2024-04-23,Clothing,Jeans,1,33.96,Spain,Bank Transfer
+O000841,C0094,2024-04-19,Beauty,Shampoo,3,120.53,France,Bank Transfer
+O000842,C0095,2023-05-06,Accessories,Belt,4,155.61,France,Bank Transfer
+O000843,C0069,2024-01-30,Accessories,Necklace,4,87.22,Italy,Credit Card
+O000844,C0236,2024-07-29,Clothing,T-Shirt,4,177.17,Germany,Bank Transfer
+O000845,C0137,2023-11-21,Sports,Sneakers,4,133.25,Italy,Credit Card
+O000846,C0076,2024-01-27,Accessories,Watch,2,180.86,Spain,Bank Transfer
+O000847,C0035,2024-09-19,Clothing,T-Shirt,4,128.47,Spain,PayPal
+O000848,C0001,2024-03-15,Beauty,Perfume,2,34.94,France,Bank Transfer
+O000849,C0296,2023-07-23,Electronics,Keyboard,4,68.84,Spain,Credit Card
+O000850,C0060,2024-04-30,Sports,Yoga Mat,3,48.34,France,PayPal
+O000851,C0267,2023-01-31,Home,Pillow,1,182.68,Italy,Credit Card
+O000852,C0229,2024-01-23,Accessories,Watch,3,154.48,Spain,Credit Card
+O000853,C0270,2024-09-16,Accessories,Watch,4,138.52,Italy,Credit Card
+O000854,C0286,2024-03-09,Electronics,Keyboard,4,67.18,Italy,PayPal
+O000855,C0291,2024-01-11,Home,Cookware,4,44.97,Spain,Credit Card
+O000856,C0213,2023-12-10,Electronics,Headphones,3,153.73,UK,PayPal
+O000857,C0165,2024-03-18,Accessories,Watch,4,100.09,Germany,Credit Card
+O000858,C0005,2024-08-01,Clothing,T-Shirt,3,52.9,UK,Credit Card
+O000859,C0078,2023-03-16,Home,Pillow,2,127.16,Germany,Bank Transfer
+O000860,C0062,2024-07-10,Accessories,Belt,1,17.66,Germany,PayPal
+O000861,C0132,2023-06-04,Electronics,Keyboard,1,71.97,Italy,Credit Card
+O000862,C0089,2024-03-05,Clothing,Jeans,3,99.03,France,Credit Card
+O000863,C0237,2023-12-29,Accessories,Necklace,2,38.11,Spain,PayPal
+O000864,C0042,2024-03-23,Accessories,Belt,3,197.08,Italy,Bank Transfer
+O000865,C0089,2023-08-22,Beauty,Perfume,2,49.73,France,Credit Card
+O000866,C0296,2024-07-16,Sports,Backpack,4,34.77,France,PayPal
+O000867,C0295,2023-09-19,Electronics,Headphones,2,48.67,Spain,Credit Card
+O000868,C0104,2023-05-05,Electronics,Headphones,2,156.12,UK,PayPal
+O000869,C0014,2023-09-02,Electronics,Mouse,2,90.85,Spain,Bank Transfer
+O000870,C0288,2024-06-25,Clothing,Jacket,1,117.43,France,Bank Transfer
+O000871,C0179,2024-04-29,Accessories,Necklace,2,13.99,UK,Bank Transfer
+O000872,C0125,2023-05-02,Clothing,Jacket,4,16.54,Italy,Credit Card
+O000873,C0023,2023-05-05,Clothing,Jacket,4,94.71,UK,Bank Transfer
+O000874,C0063,2024-07-02,Home,Lamp,4,165.16,UK,PayPal
+O000875,C0143,2023-06-19,Clothing,Jacket,2,178.2,Germany,PayPal
+O000876,C0153,2023-05-04,Beauty,Perfume,3,26.47,Spain,Bank Transfer
+O000877,C0145,2023-02-04,Clothing,Jacket,3,112.29,Germany,Bank Transfer
+O000878,C0225,2023-03-28,Home,Cookware,4,183.51,Germany,Bank Transfer
+O000879,C0104,2024-10-07,Electronics,Keyboard,1,83.71,France,PayPal
+O000880,C0104,2023-07-20,Electronics,Keyboard,3,167.62,UK,Bank Transfer
+O000881,C0039,2024-01-04,Clothing,Jacket,2,35.4,Germany,PayPal
+O000882,C0198,2023-03-18,Sports,Sneakers,3,187.72,UK,PayPal
+O000883,C0134,2023-02-28,Beauty,Cream,4,152.77,Spain,PayPal
+O000884,C0067,2024-03-06,Clothing,Jacket,1,188.85,Germany,Bank Transfer
+O000885,C0179,2024-09-29,Electronics,Keyboard,3,138.56,Germany,Bank Transfer
+O000886,C0042,2024-05-14,Electronics,Keyboard,3,79.05,France,PayPal
+O000887,C0015,2023-04-19,Accessories,Watch,4,188.25,Germany,PayPal
+O000888,C0111,2023-10-05,Electronics,Keyboard,1,62.36,Spain,PayPal
+O000889,C0157,2023-03-09,Electronics,Mouse,1,73.11,France,PayPal
+O000890,C0289,2023-03-10,Accessories,Necklace,4,143.15,Germany,Bank Transfer
+O000891,C0231,2023-06-14,Clothing,Jacket,2,155.41,Germany,PayPal
+O000892,C0157,2024-05-03,Home,Pillow,3,186.59,Germany,Credit Card
+O000893,C0038,2023-11-01,Beauty,Perfume,2,48.91,Germany,Credit Card
+O000894,C0097,2023-12-31,Home,Pillow,3,161.62,Germany,Bank Transfer
+O000895,C0289,2024-01-14,Accessories,Belt,3,150.32,UK,PayPal
+O000896,C0254,2023-12-09,Beauty,Perfume,2,22.12,Italy,Bank Transfer
+O000897,C0196,2024-07-07,Electronics,Mouse,4,83.57,Italy,Credit Card
+O000898,C0086,2023-12-20,Beauty,Cream,4,63.73,Italy,Credit Card
+O000899,C0010,2024-02-20,Home,Lamp,3,67.85,UK,Bank Transfer
+O000900,C0005,2023-04-19,Beauty,Cream,4,196.76,Germany,PayPal
+O000901,C0123,2024-07-16,Electronics,Mouse,3,132.13,Spain,Bank Transfer
+O000902,C0118,2024-05-11,Sports,Yoga Mat,4,146.36,Spain,Credit Card
+O000903,C0294,2023-12-07,Clothing,Jeans,3,195.56,Spain,PayPal
+O000904,C0159,2024-01-18,Home,Cookware,4,81.67,UK,Credit Card
+O000905,C0228,2024-06-16,Sports,Backpack,1,162.35,Spain,PayPal
+O000906,C0216,2023-10-27,Beauty,Shampoo,2,92.56,France,Credit Card
+O000907,C0184,2023-05-19,Sports,Backpack,1,175.21,Italy,PayPal
+O000908,C0015,2023-12-25,Accessories,Necklace,2,44.32,UK,PayPal
+O000909,C0157,2024-05-13,Accessories,Belt,2,190.06,Italy,Bank Transfer
+O000910,C0136,2024-01-20,Accessories,Watch,3,51.57,France,Credit Card
+O000911,C0261,2024-08-26,Home,Pillow,2,71.98,France,Credit Card
+O000912,C0157,2023-10-07,Clothing,T-Shirt,1,153.68,UK,Credit Card
+O000913,C0047,2024-09-28,Accessories,Watch,1,84.81,Italy,Credit Card
+O000914,C0173,2024-04-27,Home,Lamp,4,125.56,Italy,PayPal
+O000915,C0130,2023-04-21,Clothing,Jeans,1,94.47,Germany,Credit Card
+O000916,C0095,2023-05-19,Sports,Backpack,4,151.05,Germany,PayPal
+O000917,C0115,2024-03-10,Home,Lamp,2,53.38,Italy,Credit Card
+O000918,C0243,2024-05-23,Accessories,Watch,1,21.11,Italy,Credit Card
+O000919,C0292,2023-09-30,Home,Lamp,2,66.99,Spain,Bank Transfer
+O000920,C0282,2023-04-09,Home,Cookware,1,100.12,UK,PayPal
+O000921,C0299,2023-04-14,Home,Lamp,1,41.92,UK,PayPal
+O000922,C0283,2023-08-02,Electronics,Headphones,4,77.41,France,PayPal
+O000923,C0069,2023-06-14,Electronics,Mouse,2,86.0,Spain,Bank Transfer
+O000924,C0148,2024-06-03,Clothing,T-Shirt,1,20.9,Italy,Credit Card
+O000925,C0011,2023-10-11,Sports,Sneakers,3,120.83,Italy,Credit Card
+O000926,C0254,2024-05-31,Clothing,T-Shirt,2,178.03,France,Bank Transfer
+O000927,C0038,2024-09-04,Beauty,Perfume,2,38.83,Italy,Credit Card
+O000928,C0134,2023-06-13,Clothing,Jeans,2,123.58,France,Bank Transfer
+O000929,C0200,2023-03-05,Clothing,T-Shirt,4,136.3,UK,Bank Transfer
+O000930,C0023,2023-04-01,Clothing,T-Shirt,3,89.67,Germany,PayPal
+O000931,C0218,2023-04-27,Electronics,Keyboard,2,143.21,UK,Credit Card
+O000932,C0141,2023-09-24,Electronics,Headphones,1,88.04,Germany,Bank Transfer
+O000933,C0104,2024-07-12,Electronics,Keyboard,1,105.88,UK,PayPal
+O000934,C0210,2023-05-20,Electronics,Keyboard,4,11.4,UK,Credit Card
+O000935,C0111,2023-09-03,Electronics,Keyboard,1,141.43,Italy,PayPal
+O000936,C0104,2024-01-30,Accessories,Necklace,2,135.66,Italy,Credit Card
+O000937,C0171,2024-05-01,Clothing,Jeans,1,17.3,Spain,Bank Transfer
+O000938,C0133,2024-04-20,Home,Cookware,2,79.97,Italy,PayPal
+O000939,C0293,2024-05-31,Sports,Sneakers,1,196.02,Italy,PayPal
+O000940,C0127,2023-07-03,Home,Cookware,3,89.94,Germany,PayPal
+O000941,C0106,2023-01-20,Accessories,Necklace,4,105.37,France,Bank Transfer
+O000942,C0092,2024-07-11,Accessories,Belt,4,182.89,Germany,Credit Card
+O000943,C0287,2024-06-07,Accessories,Necklace,3,146.28,UK,Credit Card
+O000944,C0051,2024-08-04,Beauty,Cream,3,120.59,UK,PayPal
+O000945,C0029,2024-06-12,Accessories,Belt,4,161.58,Spain,PayPal
+O000946,C0296,2023-05-27,Clothing,Jacket,3,174.23,Italy,Bank Transfer
+O000947,C0297,2023-10-31,Sports,Backpack,2,96.81,France,Bank Transfer
+O000948,C0214,2024-09-11,Beauty,Shampoo,1,100.27,UK,Credit Card
+O000949,C0267,2024-08-04,Electronics,Keyboard,4,83.35,Germany,Credit Card
+O000950,C0257,2023-08-16,Clothing,T-Shirt,3,193.67,Germany,Credit Card
+O000951,C0101,2023-04-12,Sports,Yoga Mat,2,142.46,Germany,Credit Card
+O000952,C0110,2024-08-09,Electronics,Mouse,4,25.81,Germany,Credit Card
+O000953,C0182,2024-02-21,Clothing,Jacket,3,173.96,Germany,PayPal
+O000954,C0001,2023-08-04,Electronics,Mouse,4,101.31,France,PayPal
+O000955,C0055,2024-02-11,Electronics,Headphones,3,23.06,Germany,Credit Card
+O000956,C0149,2024-02-03,Clothing,T-Shirt,4,114.45,France,PayPal
+O000957,C0137,2024-05-13,Clothing,Jeans,2,89.26,Germany,Bank Transfer
+O000958,C0202,2024-04-09,Accessories,Necklace,2,176.77,UK,Credit Card
+O000959,C0117,2023-03-23,Electronics,Mouse,1,48.76,Spain,Credit Card
+O000960,C0154,2024-08-26,Accessories,Necklace,4,167.03,France,PayPal
+O000961,C0291,2023-12-31,Electronics,Headphones,1,115.96,Spain,PayPal
+O000962,C0063,2023-06-12,Sports,Sneakers,4,20.38,Germany,PayPal
+O000963,C0244,2023-02-17,Electronics,Keyboard,3,194.65,Germany,Bank Transfer
+O000964,C0025,2024-05-25,Clothing,Jacket,3,107.4,Spain,Credit Card
+O000965,C0090,2023-11-25,Sports,Yoga Mat,1,65.27,France,Bank Transfer
+O000966,C0075,2023-04-26,Electronics,Headphones,4,99.19,Spain,Credit Card
+O000967,C0294,2023-12-03,Clothing,Jeans,1,172.99,Italy,Credit Card
+O000968,C0210,2023-05-27,Home,Lamp,2,67.93,France,Bank Transfer
+O000969,C0017,2024-07-28,Accessories,Belt,1,46.61,France,PayPal
+O000970,C0128,2023-11-19,Beauty,Cream,1,34.52,Spain,Bank Transfer
+O000971,C0251,2024-03-18,Sports,Sneakers,3,66.59,Germany,PayPal
+O000972,C0179,2023-01-13,Clothing,T-Shirt,1,158.21,UK,PayPal
+O000973,C0182,2024-05-08,Sports,Sneakers,4,99.61,Italy,PayPal
+O000974,C0152,2023-10-14,Home,Cookware,3,53.22,Germany,Bank Transfer
+O000975,C0025,2023-04-24,Clothing,T-Shirt,1,41.58,Italy,PayPal
+O000976,C0180,2024-04-24,Sports,Sneakers,2,73.22,Germany,Bank Transfer
+O000977,C0198,2023-01-22,Beauty,Perfume,1,188.59,Spain,PayPal
+O000978,C0161,2023-12-15,Clothing,Jeans,1,75.18,UK,Bank Transfer
+O000979,C0177,2024-07-19,Beauty,Cream,1,197.74,France,PayPal
+O000980,C0285,2023-11-16,Home,Pillow,3,102.19,Spain,Bank Transfer
+O000981,C0063,2023-05-06,Home,Cookware,4,44.04,Germany,Credit Card
+O000982,C0150,2023-10-04,Beauty,Shampoo,2,179.32,Spain,Bank Transfer
+O000983,C0154,2023-07-23,Accessories,Belt,1,97.47,France,PayPal
+O000984,C0156,2023-07-13,Electronics,Mouse,4,144.84,France,Credit Card
+O000985,C0049,2024-06-30,Clothing,Jeans,4,196.91,France,Credit Card
+O000986,C0084,2023-10-13,Sports,Backpack,3,19.53,Spain,PayPal
+O000987,C0177,2023-02-26,Beauty,Perfume,2,28.37,Italy,PayPal
+O000988,C0148,2023-10-30,Electronics,Mouse,3,146.89,Germany,PayPal
+O000989,C0118,2023-06-12,Home,Cookware,4,63.55,France,PayPal
+O000990,C0063,2023-01-19,Sports,Yoga Mat,4,45.02,UK,Bank Transfer
+O000991,C0189,2024-01-05,Clothing,T-Shirt,4,17.48,France,Credit Card
+O000992,C0049,2023-09-21,Home,Pillow,3,14.15,France,PayPal
+O000993,C0257,2023-04-23,Accessories,Belt,2,157.15,Germany,Bank Transfer
+O000994,C0224,2024-05-02,Beauty,Shampoo,1,35.54,Spain,PayPal
+O000995,C0141,2023-11-23,Electronics,Mouse,3,98.87,France,Bank Transfer
+O000996,C0215,2024-06-25,Electronics,Mouse,4,125.12,Spain,Bank Transfer
+O000997,C0211,2024-10-08,Sports,Yoga Mat,3,91.39,France,Credit Card
+O000998,C0032,2024-08-01,Beauty,Perfume,4,15.15,Spain,PayPal
+O000999,C0158,2023-03-06,Home,Cookware,1,158.87,Spain,Credit Card
+O001000,C0285,2023-10-19,Clothing,Jeans,1,12.0,Spain,Credit Card
+O001001,C0286,2023-01-25,Sports,Backpack,2,154.76,France,Bank Transfer
+O001002,C0144,2024-07-02,Clothing,T-Shirt,4,179.73,France,Bank Transfer
+O001003,C0019,2023-01-01,Clothing,T-Shirt,2,92.24,France,Bank Transfer
+O001004,C0018,2024-07-02,Beauty,Shampoo,2,111.75,Germany,PayPal
+O001005,C0257,2023-05-21,Electronics,Headphones,1,100.63,UK,Bank Transfer
+O001006,C0078,2024-10-09,Sports,Yoga Mat,3,83.95,France,Credit Card
+O001007,C0175,2023-07-07,Home,Pillow,3,178.61,Italy,PayPal
+O001008,C0194,2023-05-08,Electronics,Headphones,2,179.85,Italy,Bank Transfer
+O001009,C0113,2023-07-20,Home,Pillow,1,73.81,UK,Credit Card
+O001010,C0114,2023-05-07,Electronics,Mouse,4,126.86,Germany,Bank Transfer
+O001011,C0222,2023-09-14,Beauty,Perfume,3,186.11,Germany,Bank Transfer
+O001012,C0166,2024-06-30,Electronics,Mouse,2,192.79,Germany,Bank Transfer
+O001013,C0132,2023-07-13,Home,Lamp,3,106.7,Spain,PayPal
+O001014,C0264,2023-04-14,Home,Lamp,3,96.04,UK,Bank Transfer
+O001015,C0055,2024-06-18,Clothing,T-Shirt,4,62.95,Italy,Bank Transfer
+O001016,C0131,2023-09-22,Beauty,Shampoo,1,192.19,UK,PayPal
+O001017,C0288,2024-01-19,Clothing,Jeans,4,37.13,UK,Bank Transfer
+O001018,C0266,2023-09-17,Home,Pillow,1,120.17,Spain,PayPal
+O001019,C0162,2024-02-18,Clothing,Jacket,3,63.68,UK,Credit Card
+O001020,C0087,2023-12-24,Clothing,Jeans,2,63.01,Italy,Credit Card
+O001021,C0055,2023-03-16,Clothing,Jacket,4,86.94,France,PayPal
+O001022,C0288,2023-12-21,Accessories,Necklace,1,199.77,Italy,PayPal
+O001023,C0178,2024-08-06,Sports,Sneakers,3,20.44,France,Bank Transfer
+O001024,C0008,2023-07-07,Home,Pillow,1,119.92,Germany,Credit Card
+O001025,C0247,2023-10-17,Sports,Yoga Mat,1,25.69,Spain,Credit Card
+O001026,C0255,2023-02-14,Electronics,Keyboard,1,39.36,Germany,Bank Transfer
+O001027,C0054,2024-07-26,Clothing,Jacket,3,93.52,Germany,Credit Card
+O001028,C0249,2023-03-24,Clothing,Jeans,2,106.99,Italy,Bank Transfer
+O001029,C0239,2023-05-03,Beauty,Perfume,2,59.17,France,Bank Transfer
+O001030,C0229,2023-12-24,Sports,Sneakers,2,70.13,France,Bank Transfer
+O001031,C0067,2024-06-11,Electronics,Keyboard,1,26.52,Italy,Credit Card
+O001032,C0051,2023-03-07,Beauty,Cream,3,67.61,Spain,Bank Transfer
+O001033,C0097,2024-01-10,Home,Cookware,1,193.65,Spain,Bank Transfer
+O001034,C0092,2023-06-11,Home,Pillow,2,189.49,Germany,Bank Transfer
+O001035,C0264,2024-01-15,Accessories,Belt,2,73.63,Italy,Bank Transfer
+O001036,C0291,2023-12-24,Beauty,Perfume,3,118.46,Germany,PayPal
+O001037,C0096,2023-07-07,Electronics,Mouse,1,182.82,UK,Bank Transfer
+O001038,C0088,2023-11-18,Beauty,Cream,4,11.17,France,Bank Transfer
+O001039,C0078,2024-03-25,Electronics,Headphones,4,164.03,Italy,Credit Card
+O001040,C0288,2024-04-18,Accessories,Watch,2,190.19,Spain,Credit Card
+O001041,C0120,2023-01-13,Clothing,Jacket,3,27.35,Spain,Bank Transfer
+O001042,C0165,2023-07-03,Clothing,T-Shirt,1,40.68,France,PayPal
+O001043,C0182,2023-04-21,Beauty,Shampoo,1,192.54,Spain,Bank Transfer
+O001044,C0223,2024-05-22,Electronics,Mouse,2,112.13,Italy,Credit Card
+O001045,C0007,2023-10-17,Clothing,T-Shirt,2,12.7,Italy,Credit Card
+O001046,C0263,2023-10-22,Electronics,Keyboard,1,58.95,France,Bank Transfer
+O001047,C0161,2024-03-26,Beauty,Cream,1,95.49,Italy,Bank Transfer
+O001048,C0151,2023-08-03,Beauty,Shampoo,2,141.65,UK,Bank Transfer
+O001049,C0085,2024-09-23,Sports,Yoga Mat,1,149.3,UK,Credit Card
+O001050,C0147,2024-07-20,Electronics,Keyboard,4,199.13,Italy,PayPal
+O001051,C0112,2023-01-27,Sports,Yoga Mat,2,64.63,UK,PayPal
+O001052,C0036,2024-09-21,Electronics,Keyboard,1,112.26,Italy,Bank Transfer
+O001053,C0285,2023-08-19,Beauty,Perfume,2,111.33,France,Bank Transfer
+O001054,C0188,2024-07-18,Beauty,Shampoo,3,87.07,UK,Credit Card
+O001055,C0082,2023-11-17,Beauty,Shampoo,2,42.14,Germany,Bank Transfer
+O001056,C0002,2023-08-21,Beauty,Cream,2,195.72,Spain,Bank Transfer
+O001057,C0197,2024-03-12,Electronics,Mouse,3,172.13,Germany,Bank Transfer
+O001058,C0011,2024-06-16,Sports,Sneakers,4,104.68,Italy,Bank Transfer
+O001059,C0234,2024-02-07,Beauty,Shampoo,1,124.62,Spain,PayPal
+O001060,C0195,2023-02-22,Accessories,Belt,3,53.18,France,Bank Transfer
+O001061,C0119,2023-11-09,Sports,Backpack,2,113.32,France,Credit Card
+O001062,C0020,2023-10-08,Home,Cookware,1,142.04,Germany,Credit Card
+O001063,C0261,2023-01-31,Sports,Backpack,3,107.88,UK,PayPal
+O001064,C0293,2023-12-03,Clothing,Jacket,1,198.15,UK,PayPal
+O001065,C0256,2023-07-02,Electronics,Headphones,1,126.15,Germany,PayPal
+O001066,C0222,2023-01-23,Sports,Backpack,3,80.49,France,PayPal
+O001067,C0226,2024-06-27,Accessories,Belt,1,156.71,Spain,Bank Transfer
+O001068,C0053,2024-03-21,Home,Pillow,4,42.39,UK,PayPal
+O001069,C0280,2023-03-15,Accessories,Watch,3,83.06,France,Bank Transfer
+O001070,C0081,2023-01-10,Clothing,Jacket,4,75.92,Germany,PayPal
+O001071,C0202,2024-04-28,Clothing,Jeans,2,92.04,France,Bank Transfer
+O001072,C0158,2024-03-31,Clothing,T-Shirt,1,158.54,UK,Credit Card
+O001073,C0120,2024-07-19,Sports,Yoga Mat,2,101.99,Germany,PayPal
+O001074,C0059,2024-07-17,Beauty,Shampoo,2,160.86,France,PayPal
+O001075,C0215,2023-06-09,Beauty,Cream,1,119.53,France,PayPal
+O001076,C0128,2023-01-14,Electronics,Headphones,3,74.99,Spain,Bank Transfer
+O001077,C0224,2023-06-27,Clothing,Jeans,1,163.9,Spain,PayPal
+O001078,C0209,2024-02-16,Accessories,Necklace,2,55.28,Spain,Credit Card
+O001079,C0115,2023-02-22,Electronics,Keyboard,2,52.63,France,Bank Transfer
+O001080,C0209,2024-02-12,Accessories,Watch,3,105.86,Germany,Bank Transfer
+O001081,C0014,2023-01-22,Accessories,Necklace,1,59.56,UK,Bank Transfer
+O001082,C0009,2023-01-30,Beauty,Cream,2,11.73,UK,Credit Card
+O001083,C0040,2023-09-17,Accessories,Watch,4,133.18,UK,Bank Transfer
+O001084,C0237,2023-07-24,Clothing,T-Shirt,2,107.11,Italy,Credit Card
+O001085,C0281,2023-02-28,Home,Lamp,2,94.65,UK,PayPal
+O001086,C0201,2024-04-15,Home,Lamp,3,193.72,France,PayPal
+O001087,C0246,2024-04-10,Clothing,Jacket,4,118.53,Germany,Credit Card
+O001088,C0278,2023-01-12,Electronics,Headphones,2,174.05,UK,Bank Transfer
+O001089,C0235,2024-09-22,Home,Lamp,2,36.5,Italy,Credit Card
+O001090,C0004,2023-10-17,Beauty,Cream,4,118.15,France,Bank Transfer
+O001091,C0154,2023-12-20,Home,Cookware,1,174.92,Germany,Credit Card
+O001092,C0029,2024-09-30,Accessories,Watch,1,120.79,France,Bank Transfer
+O001093,C0109,2023-03-16,Home,Cookware,2,146.42,UK,PayPal
+O001094,C0098,2024-07-14,Accessories,Necklace,2,80.69,France,Credit Card
+O001095,C0215,2024-08-13,Accessories,Watch,1,27.57,UK,Credit Card
+O001096,C0293,2024-03-16,Accessories,Watch,3,97.0,Spain,Credit Card
+O001097,C0075,2023-08-29,Clothing,Jeans,4,84.95,Germany,Bank Transfer
+O001098,C0146,2023-06-03,Sports,Yoga Mat,4,174.74,Germany,Bank Transfer
+O001099,C0128,2023-04-06,Clothing,T-Shirt,3,56.36,Germany,Credit Card
+O001100,C0042,2023-10-21,Home,Lamp,3,193.68,Italy,Credit Card
+O001101,C0041,2023-07-28,Home,Lamp,3,192.05,Spain,Credit Card
+O001102,C0034,2023-12-09,Sports,Backpack,3,57.05,Germany,Credit Card
+O001103,C0017,2023-03-29,Electronics,Mouse,3,76.13,Germany,PayPal
+O001104,C0165,2024-01-25,Beauty,Perfume,3,180.16,Italy,Credit Card
+O001105,C0153,2023-11-21,Home,Cookware,4,193.66,Italy,Credit Card
+O001106,C0076,2023-06-06,Home,Pillow,3,94.25,Spain,Bank Transfer
+O001107,C0087,2024-09-24,Home,Cookware,1,70.99,Italy,Credit Card
+O001108,C0117,2024-07-30,Beauty,Shampoo,3,109.96,Italy,Credit Card
+O001109,C0027,2024-09-10,Home,Lamp,3,140.68,UK,Credit Card
+O001110,C0287,2023-05-17,Clothing,Jeans,4,61.96,France,PayPal
+O001111,C0134,2024-03-03,Home,Pillow,4,149.93,UK,Bank Transfer
+O001112,C0219,2024-03-27,Accessories,Belt,3,19.81,Italy,PayPal
+O001113,C0168,2024-09-03,Electronics,Headphones,4,19.37,UK,Credit Card
+O001114,C0098,2023-05-21,Electronics,Headphones,2,83.39,Germany,Bank Transfer
+O001115,C0268,2023-03-24,Home,Cookware,4,77.16,France,PayPal
+O001116,C0237,2023-06-26,Clothing,Jeans,4,69.97,Italy,PayPal
+O001117,C0173,2023-07-17,Sports,Sneakers,4,103.29,France,Bank Transfer
+O001118,C0190,2024-09-15,Clothing,Jeans,4,70.94,Italy,Credit Card
+O001119,C0122,2024-07-21,Home,Lamp,1,46.53,UK,Credit Card
+O001120,C0046,2024-02-25,Clothing,Jacket,1,68.8,Germany,Credit Card
+O001121,C0064,2024-02-05,Clothing,Jeans,1,195.23,France,Credit Card
+O001122,C0130,2024-04-15,Home,Cookware,3,88.11,Spain,PayPal
+O001123,C0193,2023-08-06,Sports,Backpack,3,94.5,Spain,Bank Transfer
+O001124,C0181,2024-09-23,Accessories,Watch,2,119.54,Spain,Bank Transfer
+O001125,C0292,2023-06-24,Home,Cookware,1,196.83,Italy,PayPal
+O001126,C0282,2023-01-23,Beauty,Shampoo,3,55.9,Italy,PayPal
+O001127,C0029,2023-08-23,Clothing,T-Shirt,4,139.44,France,Bank Transfer
+O001128,C0149,2023-01-13,Electronics,Mouse,4,146.04,UK,Credit Card
+O001129,C0267,2023-04-11,Sports,Yoga Mat,1,125.39,Germany,Credit Card
+O001130,C0296,2024-06-19,Beauty,Perfume,2,26.83,Spain,Bank Transfer
+O001131,C0011,2024-06-06,Home,Lamp,2,138.61,Spain,PayPal
+O001132,C0164,2024-03-27,Electronics,Headphones,4,22.18,Germany,PayPal
+O001133,C0113,2024-03-06,Home,Lamp,2,123.27,UK,Credit Card
+O001134,C0187,2024-08-28,Accessories,Necklace,1,150.52,Italy,Credit Card
+O001135,C0295,2024-06-16,Accessories,Belt,4,50.08,Germany,Bank Transfer
+O001136,C0232,2023-10-20,Accessories,Necklace,3,169.91,Italy,Bank Transfer
+O001137,C0227,2023-04-11,Home,Pillow,3,15.77,France,PayPal
+O001138,C0098,2024-05-16,Electronics,Mouse,2,170.32,Spain,Bank Transfer
+O001139,C0055,2023-10-31,Beauty,Perfume,4,97.46,Germany,PayPal
+O001140,C0111,2024-06-23,Electronics,Mouse,4,51.34,Spain,Bank Transfer
+O001141,C0152,2024-07-06,Accessories,Belt,3,35.42,Spain,Credit Card
+O001142,C0246,2023-12-21,Clothing,T-Shirt,4,191.13,Italy,PayPal
+O001143,C0069,2023-10-30,Sports,Backpack,4,23.81,UK,Bank Transfer
+O001144,C0289,2024-05-10,Clothing,Jeans,4,47.83,Spain,Bank Transfer
+O001145,C0250,2023-08-15,Electronics,Headphones,2,76.09,Italy,Bank Transfer
+O001146,C0036,2023-08-24,Clothing,Jacket,4,127.84,Italy,Bank Transfer
+O001147,C0239,2024-03-30,Electronics,Mouse,1,113.51,UK,PayPal
+O001148,C0148,2023-01-13,Sports,Sneakers,2,33.87,UK,Bank Transfer
+O001149,C0227,2023-07-29,Home,Pillow,4,65.05,Germany,Credit Card
+O001150,C0244,2024-02-01,Accessories,Necklace,4,55.36,Italy,Bank Transfer
+O001151,C0201,2023-04-10,Electronics,Headphones,1,50.57,UK,Credit Card
+O001152,C0154,2023-01-31,Accessories,Necklace,2,88.12,France,Credit Card
+O001153,C0073,2024-06-11,Beauty,Shampoo,3,143.77,France,Credit Card
+O001154,C0201,2024-10-10,Clothing,Jeans,3,51.32,UK,Bank Transfer
+O001155,C0296,2023-11-25,Home,Cookware,2,79.67,Germany,Bank Transfer
+O001156,C0017,2023-06-15,Electronics,Keyboard,4,84.27,Italy,Credit Card
+O001157,C0129,2024-04-03,Clothing,T-Shirt,4,195.53,Germany,PayPal
+O001158,C0217,2023-04-10,Clothing,Jacket,3,191.39,France,PayPal
+O001159,C0061,2024-09-12,Sports,Yoga Mat,3,162.03,UK,Bank Transfer
+O001160,C0104,2023-06-22,Accessories,Necklace,3,55.92,Germany,Credit Card
+O001161,C0042,2023-06-11,Clothing,T-Shirt,1,22.93,France,Credit Card
+O001162,C0025,2023-09-20,Home,Lamp,3,70.21,France,Credit Card
+O001163,C0039,2023-10-01,Clothing,Jacket,1,60.69,Spain,PayPal
+O001164,C0291,2023-01-03,Sports,Yoga Mat,2,106.13,France,PayPal
+O001165,C0131,2023-01-28,Home,Lamp,4,157.77,Spain,Bank Transfer
+O001166,C0229,2023-11-22,Sports,Yoga Mat,3,173.08,Germany,Bank Transfer
+O001167,C0108,2023-05-29,Sports,Sneakers,4,170.52,Germany,Credit Card
+O001168,C0172,2024-06-23,Electronics,Headphones,4,78.34,Italy,PayPal
+O001169,C0102,2024-05-02,Sports,Sneakers,3,140.57,Spain,Bank Transfer
+O001170,C0012,2024-03-13,Clothing,Jeans,3,69.44,Italy,Bank Transfer
+O001171,C0275,2023-03-06,Clothing,T-Shirt,2,21.57,Spain,Bank Transfer
+O001172,C0101,2023-12-22,Sports,Yoga Mat,1,143.3,Germany,PayPal
+O001173,C0044,2024-06-16,Sports,Yoga Mat,1,11.87,France,PayPal
+O001174,C0017,2023-09-09,Clothing,Jacket,4,87.74,Spain,Credit Card
+O001175,C0057,2023-08-23,Beauty,Cream,3,72.58,UK,PayPal
+O001176,C0012,2023-08-15,Sports,Sneakers,2,141.74,Germany,PayPal
+O001177,C0080,2024-06-08,Clothing,T-Shirt,2,155.59,Italy,Bank Transfer
+O001178,C0216,2023-11-09,Accessories,Watch,2,67.78,France,PayPal
+O001179,C0264,2023-02-18,Accessories,Belt,2,164.21,Spain,Credit Card
+O001180,C0149,2023-04-28,Electronics,Mouse,2,65.84,France,PayPal
+O001181,C0081,2023-02-23,Home,Pillow,1,94.8,Germany,Credit Card
+O001182,C0215,2024-10-11,Clothing,T-Shirt,1,148.13,Italy,PayPal
+O001183,C0198,2024-07-18,Home,Pillow,1,141.65,Italy,Credit Card
+O001184,C0200,2023-02-13,Accessories,Necklace,3,197.6,Italy,PayPal
+O001185,C0025,2023-02-22,Clothing,Jacket,4,52.78,Germany,Credit Card
+O001186,C0089,2024-08-08,Accessories,Necklace,2,135.84,Germany,PayPal
+O001187,C0268,2024-07-11,Home,Cookware,3,125.84,UK,Bank Transfer
+O001188,C0143,2024-06-08,Beauty,Cream,2,183.87,France,Credit Card
+O001189,C0059,2023-04-12,Sports,Yoga Mat,1,39.71,Spain,Credit Card
+O001190,C0026,2024-02-02,Sports,Backpack,3,152.84,Germany,Bank Transfer
+O001191,C0047,2023-05-18,Beauty,Cream,1,117.97,UK,Bank Transfer
+O001192,C0288,2024-01-22,Sports,Sneakers,2,62.19,France,Bank Transfer
+O001193,C0266,2023-04-21,Clothing,Jeans,2,100.14,Germany,PayPal
+O001194,C0016,2024-09-05,Accessories,Necklace,4,73.42,France,Bank Transfer
+O001195,C0199,2023-01-17,Beauty,Shampoo,2,120.07,Spain,Credit Card
+O001196,C0282,2023-07-01,Home,Cookware,1,178.91,Spain,Credit Card
+O001197,C0086,2024-06-19,Home,Pillow,2,118.17,Italy,Credit Card
+O001198,C0250,2024-06-24,Clothing,Jeans,4,130.03,UK,Bank Transfer
+O001199,C0270,2023-06-20,Electronics,Headphones,4,108.56,Germany,Credit Card
+O001200,C0117,2024-02-13,Electronics,Keyboard,1,19.72,France,Credit Card
+O001201,C0007,2024-01-13,Home,Cookware,3,54.24,UK,Bank Transfer
+O001202,C0137,2023-07-07,Beauty,Cream,2,103.48,Germany,PayPal
+O001203,C0176,2023-08-18,Electronics,Headphones,4,68.94,Italy,Credit Card
+O001204,C0215,2023-04-29,Home,Cookware,2,44.54,Italy,PayPal
+O001205,C0082,2023-06-05,Home,Cookware,2,105.79,Italy,Credit Card
+O001206,C0223,2024-04-09,Beauty,Cream,3,71.33,Germany,Bank Transfer
+O001207,C0103,2023-04-14,Clothing,Jacket,4,59.04,France,Bank Transfer
+O001208,C0273,2024-08-26,Accessories,Watch,2,98.16,Italy,Credit Card
+O001209,C0014,2024-05-16,Accessories,Belt,4,35.32,Italy,Credit Card
+O001210,C0159,2023-06-24,Home,Pillow,1,186.27,Germany,PayPal
+O001211,C0152,2024-02-25,Home,Cookware,1,174.86,Spain,PayPal
+O001212,C0108,2023-05-14,Electronics,Mouse,2,144.45,France,Bank Transfer
+O001213,C0188,2024-01-26,Electronics,Mouse,4,30.18,Italy,Bank Transfer
+O001214,C0098,2024-05-15,Home,Cookware,2,157.42,UK,PayPal
+O001215,C0131,2023-02-02,Clothing,T-Shirt,4,163.51,Italy,PayPal
+O001216,C0293,2023-02-24,Sports,Backpack,4,155.88,Germany,PayPal
+O001217,C0171,2024-06-02,Home,Pillow,3,31.65,UK,PayPal
+O001218,C0183,2024-09-29,Beauty,Cream,3,132.34,Spain,PayPal
+O001219,C0039,2023-01-12,Electronics,Headphones,3,168.52,Italy,Credit Card
+O001220,C0015,2024-06-11,Clothing,Jacket,2,119.7,Germany,PayPal
+O001221,C0004,2024-07-08,Electronics,Headphones,3,132.82,France,PayPal
+O001222,C0210,2024-01-08,Electronics,Keyboard,3,97.09,Germany,PayPal
+O001223,C0161,2024-04-28,Sports,Backpack,1,110.45,UK,Credit Card
+O001224,C0016,2024-10-08,Clothing,T-Shirt,4,16.53,France,Bank Transfer
+O001225,C0108,2023-08-16,Sports,Sneakers,4,131.4,UK,PayPal
+O001226,C0227,2024-09-14,Beauty,Shampoo,3,25.47,UK,Bank Transfer
+O001227,C0170,2023-11-03,Sports,Sneakers,4,92.65,Spain,PayPal
+O001228,C0034,2024-04-01,Accessories,Watch,1,65.6,Germany,PayPal
+O001229,C0251,2023-06-09,Accessories,Belt,1,113.63,Germany,Credit Card
+O001230,C0247,2023-11-27,Sports,Yoga Mat,3,35.35,Spain,PayPal
+O001231,C0269,2023-08-13,Accessories,Belt,1,141.41,France,PayPal
+O001232,C0141,2024-05-18,Electronics,Headphones,4,161.05,UK,Bank Transfer
+O001233,C0274,2024-03-31,Home,Pillow,2,41.04,Spain,Credit Card
+O001234,C0096,2023-02-14,Sports,Sneakers,4,29.82,UK,Credit Card
+O001235,C0227,2023-08-02,Home,Pillow,2,37.65,France,Bank Transfer
+O001236,C0039,2023-02-28,Clothing,T-Shirt,3,176.65,Spain,Credit Card
+O001237,C0029,2024-10-05,Sports,Backpack,2,110.36,Germany,Credit Card
+O001238,C0245,2024-09-07,Accessories,Watch,1,98.78,Spain,PayPal
+O001239,C0236,2023-07-14,Accessories,Belt,4,30.28,France,Bank Transfer
+O001240,C0185,2024-05-03,Beauty,Shampoo,2,133.42,Germany,Credit Card
+O001241,C0272,2023-06-06,Home,Pillow,4,174.92,Spain,Bank Transfer
+O001242,C0236,2024-09-01,Sports,Sneakers,3,167.36,Spain,Credit Card
+O001243,C0239,2023-08-14,Clothing,T-Shirt,3,128.95,Spain,Credit Card
+O001244,C0266,2024-02-16,Electronics,Headphones,1,24.3,Spain,Credit Card
+O001245,C0065,2023-07-24,Sports,Sneakers,3,31.36,Germany,PayPal
+O001246,C0177,2023-03-20,Clothing,Jacket,2,19.37,Germany,PayPal
+O001247,C0003,2023-05-04,Electronics,Keyboard,3,58.92,UK,PayPal
+O001248,C0142,2024-04-15,Home,Lamp,1,35.78,UK,Credit Card
+O001249,C0158,2023-08-06,Electronics,Mouse,4,59.41,Italy,Credit Card
+O001250,C0146,2024-05-30,Accessories,Necklace,4,83.16,Germany,Credit Card
+O001251,C0293,2024-08-24,Beauty,Cream,3,189.17,Italy,Bank Transfer
+O001252,C0153,2023-04-14,Clothing,Jacket,2,125.97,UK,PayPal
+O001253,C0193,2024-01-28,Accessories,Watch,1,168.65,France,Bank Transfer
+O001254,C0073,2024-09-22,Home,Pillow,2,144.97,Italy,PayPal
+O001255,C0140,2024-10-06,Electronics,Mouse,1,31.38,France,PayPal
+O001256,C0187,2024-08-30,Beauty,Shampoo,3,149.82,France,Bank Transfer
+O001257,C0293,2024-03-09,Home,Lamp,1,62.27,France,Credit Card
+O001258,C0061,2023-11-27,Electronics,Keyboard,1,131.43,Spain,Bank Transfer
+O001259,C0198,2023-05-23,Home,Lamp,3,74.78,Italy,PayPal
+O001260,C0295,2024-06-23,Clothing,T-Shirt,2,199.56,UK,Bank Transfer
+O001261,C0011,2023-10-05,Beauty,Perfume,3,60.07,Italy,PayPal
+O001262,C0062,2023-08-21,Sports,Yoga Mat,1,63.03,UK,PayPal
+O001263,C0226,2024-06-12,Clothing,T-Shirt,3,186.83,France,Credit Card
+O001264,C0153,2024-07-24,Home,Pillow,1,14.68,UK,PayPal
+O001265,C0199,2023-03-31,Clothing,T-Shirt,3,142.37,UK,PayPal
+O001266,C0052,2024-05-06,Clothing,Jeans,4,147.81,Italy,Credit Card
+O001267,C0260,2023-07-18,Electronics,Keyboard,4,168.91,Spain,Bank Transfer
+O001268,C0059,2023-12-28,Accessories,Watch,3,195.14,UK,Credit Card
+O001269,C0072,2024-03-16,Sports,Yoga Mat,2,195.36,Italy,Bank Transfer
+O001270,C0148,2023-01-26,Sports,Backpack,1,22.4,France,PayPal
+O001271,C0063,2023-01-25,Sports,Sneakers,4,166.15,Italy,PayPal
+O001272,C0243,2024-01-29,Sports,Backpack,2,132.8,UK,Credit Card
+O001273,C0107,2024-05-21,Accessories,Belt,1,133.0,Spain,Bank Transfer
+O001274,C0226,2023-10-28,Beauty,Cream,4,34.39,France,Bank Transfer
+O001275,C0218,2023-12-05,Beauty,Shampoo,4,133.54,France,PayPal
+O001276,C0241,2023-09-24,Home,Cookware,3,196.67,UK,Bank Transfer
+O001277,C0259,2024-04-05,Beauty,Perfume,1,183.25,Germany,Credit Card
+O001278,C0262,2024-03-31,Beauty,Perfume,2,93.43,Italy,PayPal
+O001279,C0005,2023-12-26,Electronics,Mouse,2,17.59,Italy,Bank Transfer
+O001280,C0261,2023-03-09,Electronics,Headphones,2,78.84,Spain,Bank Transfer
+O001281,C0054,2024-02-16,Beauty,Cream,1,167.01,Germany,Bank Transfer
+O001282,C0047,2024-05-05,Beauty,Perfume,2,143.28,UK,PayPal
+O001283,C0215,2023-02-18,Clothing,T-Shirt,2,97.28,UK,PayPal
+O001284,C0177,2024-07-17,Home,Lamp,2,20.47,UK,PayPal
+O001285,C0009,2023-04-12,Beauty,Shampoo,3,91.11,Italy,PayPal
+O001286,C0099,2023-08-04,Electronics,Keyboard,3,99.11,Spain,PayPal
+O001287,C0020,2024-03-13,Home,Pillow,1,186.43,UK,Bank Transfer
+O001288,C0241,2024-07-22,Sports,Sneakers,1,131.81,Spain,PayPal
+O001289,C0061,2024-07-12,Electronics,Headphones,2,69.21,Italy,Bank Transfer
+O001290,C0178,2023-06-08,Electronics,Headphones,3,109.81,Germany,PayPal
+O001291,C0062,2024-05-03,Home,Pillow,4,22.55,UK,Bank Transfer
+O001292,C0145,2023-08-30,Accessories,Necklace,4,194.79,Italy,Credit Card
+O001293,C0216,2023-01-05,Clothing,Jacket,2,78.41,UK,Credit Card
+O001294,C0003,2024-08-18,Sports,Backpack,2,100.79,Spain,Bank Transfer
+O001295,C0160,2023-12-27,Home,Pillow,3,77.5,UK,Credit Card
+O001296,C0227,2024-04-03,Home,Pillow,3,139.68,UK,Bank Transfer
+O001297,C0269,2023-09-05,Sports,Backpack,3,135.82,UK,Bank Transfer
+O001298,C0120,2024-07-19,Accessories,Watch,1,145.91,UK,PayPal
+O001299,C0089,2024-02-26,Home,Cookware,1,60.95,Spain,PayPal
+O001300,C0068,2023-01-15,Electronics,Keyboard,2,69.98,Spain,Credit Card
+O001301,C0098,2024-07-26,Home,Cookware,1,33.8,Germany,Credit Card
+O001302,C0267,2023-05-02,Beauty,Perfume,3,134.55,Italy,Bank Transfer
+O001303,C0105,2023-10-04,Electronics,Headphones,3,17.56,UK,Bank Transfer
+O001304,C0123,2024-07-11,Electronics,Headphones,1,123.56,Spain,PayPal
+O001305,C0029,2024-03-28,Clothing,T-Shirt,4,175.24,UK,Bank Transfer
+O001306,C0137,2024-01-25,Home,Cookware,2,179.26,France,Credit Card
+O001307,C0195,2023-10-21,Sports,Yoga Mat,4,95.32,UK,PayPal
+O001308,C0226,2024-07-27,Clothing,Jeans,2,97.27,Italy,Bank Transfer
+O001309,C0170,2024-08-20,Home,Cookware,4,24.62,France,Bank Transfer
+O001310,C0009,2024-03-21,Accessories,Belt,1,137.45,Germany,Bank Transfer
+O001311,C0040,2023-07-29,Home,Cookware,2,166.04,France,Credit Card
+O001312,C0025,2024-08-12,Sports,Yoga Mat,2,56.48,Italy,Bank Transfer
+O001313,C0261,2023-10-29,Sports,Yoga Mat,2,90.05,UK,PayPal
+O001314,C0226,2023-08-11,Accessories,Belt,3,169.38,France,PayPal
+O001315,C0124,2023-01-03,Beauty,Shampoo,3,176.65,Germany,Credit Card
+O001316,C0038,2024-06-01,Beauty,Cream,4,56.2,Germany,Credit Card
+O001317,C0251,2023-04-03,Home,Cookware,1,114.61,France,Bank Transfer
+O001318,C0176,2024-06-03,Sports,Backpack,3,46.57,France,Bank Transfer
+O001319,C0090,2024-03-03,Accessories,Watch,2,29.36,Spain,Bank Transfer
+O001320,C0037,2024-05-07,Sports,Backpack,3,183.11,Spain,Credit Card
+O001321,C0176,2023-08-23,Electronics,Headphones,1,165.9,UK,Bank Transfer
+O001322,C0284,2024-09-11,Sports,Yoga Mat,3,154.41,Spain,Bank Transfer
+O001323,C0081,2023-06-10,Home,Cookware,2,19.27,France,PayPal
+O001324,C0114,2023-11-27,Accessories,Watch,4,170.31,Spain,PayPal
+O001325,C0040,2023-11-29,Clothing,Jeans,2,93.23,UK,PayPal
+O001326,C0224,2023-02-19,Sports,Backpack,1,75.06,France,Credit Card
+O001327,C0115,2024-06-06,Sports,Yoga Mat,4,113.83,Germany,Bank Transfer
+O001328,C0186,2024-05-06,Accessories,Watch,3,27.36,Germany,Credit Card
+O001329,C0056,2024-08-04,Sports,Sneakers,3,153.76,Spain,Bank Transfer
+O001330,C0040,2023-09-29,Accessories,Necklace,3,120.66,France,Credit Card
+O001331,C0040,2024-08-02,Electronics,Mouse,4,45.45,France,Credit Card
+O001332,C0237,2023-09-09,Electronics,Keyboard,2,45.76,UK,Credit Card
+O001333,C0289,2024-07-13,Electronics,Mouse,4,45.01,France,Bank Transfer
+O001334,C0262,2023-03-31,Sports,Backpack,4,20.83,France,Bank Transfer
+O001335,C0216,2024-03-21,Beauty,Shampoo,1,121.68,Italy,PayPal
+O001336,C0147,2023-11-28,Beauty,Cream,4,169.67,Spain,Bank Transfer
+O001337,C0168,2023-05-19,Beauty,Shampoo,3,13.32,Italy,Credit Card
+O001338,C0092,2023-12-23,Beauty,Shampoo,2,19.31,France,Bank Transfer
+O001339,C0059,2024-08-23,Beauty,Cream,2,118.83,Spain,PayPal
+O001340,C0059,2023-10-01,Sports,Backpack,2,165.7,Spain,Credit Card
+O001341,C0169,2023-01-19,Clothing,Jeans,3,72.08,France,Credit Card
+O001342,C0269,2023-11-07,Electronics,Mouse,3,76.43,Germany,Bank Transfer
+O001343,C0045,2023-06-03,Accessories,Watch,3,123.31,Spain,Credit Card
+O001344,C0181,2024-01-25,Home,Lamp,3,62.1,Germany,Bank Transfer
+O001345,C0170,2023-09-17,Accessories,Belt,3,15.06,Germany,Credit Card
+O001346,C0191,2024-09-11,Home,Pillow,4,149.69,Germany,PayPal
+O001347,C0155,2024-07-24,Accessories,Necklace,3,128.87,Germany,Credit Card
+O001348,C0188,2023-05-05,Electronics,Keyboard,3,120.34,France,PayPal
+O001349,C0007,2023-12-20,Home,Cookware,3,150.92,Spain,Credit Card
+O001350,C0133,2023-09-30,Sports,Sneakers,3,138.29,France,Bank Transfer
+O001351,C0235,2024-09-10,Accessories,Belt,2,49.12,UK,Credit Card
+O001352,C0045,2023-09-02,Accessories,Watch,3,76.97,Italy,Bank Transfer
+O001353,C0249,2024-03-25,Clothing,T-Shirt,4,33.96,France,PayPal
+O001354,C0031,2023-09-04,Beauty,Shampoo,4,34.67,France,Credit Card
+O001355,C0023,2024-06-03,Accessories,Belt,4,138.48,France,PayPal
+O001356,C0160,2023-05-21,Sports,Sneakers,1,173.13,France,Credit Card
+O001357,C0158,2023-12-28,Electronics,Mouse,2,192.92,France,Credit Card
+O001358,C0039,2023-01-08,Home,Lamp,3,129.39,Germany,Credit Card
+O001359,C0082,2024-04-22,Beauty,Perfume,1,44.98,France,PayPal
+O001360,C0258,2023-12-18,Accessories,Belt,3,30.07,Germany,Credit Card
+O001361,C0206,2024-05-09,Clothing,Jeans,1,164.44,France,Credit Card
+O001362,C0077,2024-08-28,Sports,Backpack,1,119.96,Spain,PayPal
+O001363,C0012,2024-03-02,Accessories,Belt,4,127.47,France,Bank Transfer
+O001364,C0295,2023-02-08,Electronics,Keyboard,4,158.48,France,Credit Card
+O001365,C0224,2024-08-15,Clothing,Jeans,1,143.62,Spain,Credit Card
+O001366,C0013,2023-07-06,Electronics,Headphones,4,168.55,Spain,PayPal
+O001367,C0046,2024-08-18,Electronics,Headphones,1,20.68,Italy,PayPal
+O001368,C0155,2024-08-22,Electronics,Mouse,2,152.03,UK,PayPal
+O001369,C0113,2023-04-03,Sports,Sneakers,4,171.66,UK,PayPal
+O001370,C0233,2023-03-27,Beauty,Perfume,4,64.37,France,Credit Card
+O001371,C0017,2023-02-13,Home,Lamp,4,131.68,Spain,Credit Card
+O001372,C0223,2023-05-17,Accessories,Watch,2,69.69,UK,Bank Transfer
+O001373,C0188,2024-02-25,Sports,Yoga Mat,1,192.01,UK,Bank Transfer
+O001374,C0163,2023-03-15,Clothing,Jacket,3,16.35,France,Credit Card
+O001375,C0074,2024-07-01,Beauty,Shampoo,4,120.16,UK,Credit Card
+O001376,C0233,2024-09-04,Electronics,Keyboard,1,41.64,Spain,Credit Card
+O001377,C0224,2024-05-26,Electronics,Headphones,2,145.32,UK,PayPal
+O001378,C0060,2023-06-05,Accessories,Watch,3,43.42,Spain,Credit Card
+O001379,C0222,2023-09-12,Electronics,Mouse,4,54.72,UK,Credit Card
+O001380,C0037,2023-06-20,Sports,Backpack,2,103.93,Italy,Bank Transfer
+O001381,C0278,2023-06-19,Accessories,Necklace,2,183.82,Italy,Credit Card
+O001382,C0196,2023-11-18,Sports,Backpack,3,50.23,UK,PayPal
+O001383,C0242,2024-07-20,Clothing,T-Shirt,1,37.41,UK,Credit Card
+O001384,C0219,2024-03-31,Sports,Yoga Mat,4,154.21,Germany,Credit Card
+O001385,C0192,2024-08-25,Clothing,T-Shirt,4,105.12,Italy,PayPal
+O001386,C0017,2024-09-04,Clothing,Jacket,1,183.24,Italy,Credit Card
+O001387,C0012,2023-06-04,Beauty,Shampoo,1,37.86,Italy,PayPal
+O001388,C0193,2023-12-15,Accessories,Necklace,1,132.73,Italy,Credit Card
+O001389,C0022,2024-03-26,Sports,Backpack,3,54.25,Spain,PayPal
+O001390,C0120,2023-06-22,Accessories,Belt,3,39.78,UK,Credit Card
+O001391,C0210,2023-01-10,Sports,Sneakers,4,139.85,Italy,Bank Transfer
+O001392,C0270,2023-09-22,Electronics,Headphones,3,122.8,UK,Credit Card
+O001393,C0192,2024-03-13,Electronics,Keyboard,2,153.42,France,Credit Card
+O001394,C0175,2023-09-04,Beauty,Shampoo,4,68.8,Germany,Credit Card
+O001395,C0285,2024-06-29,Home,Lamp,3,95.11,Spain,Credit Card
+O001396,C0204,2024-05-13,Beauty,Cream,1,87.04,Italy,Bank Transfer
+O001397,C0164,2023-05-09,Clothing,Jacket,2,196.98,France,PayPal
+O001398,C0251,2024-08-23,Electronics,Mouse,1,65.53,Spain,Credit Card
+O001399,C0227,2024-08-27,Clothing,T-Shirt,4,66.02,France,Credit Card
+O001400,C0007,2023-11-23,Sports,Sneakers,1,77.36,France,PayPal
+O001401,C0029,2024-02-08,Accessories,Belt,3,117.27,Italy,PayPal
+O001402,C0033,2024-09-20,Electronics,Mouse,3,57.94,Spain,Bank Transfer
+O001403,C0134,2024-08-28,Beauty,Perfume,4,183.91,Germany,Bank Transfer
+O001404,C0079,2024-09-02,Accessories,Necklace,1,60.48,Germany,Bank Transfer
+O001405,C0058,2024-09-16,Home,Cookware,4,180.2,Italy,PayPal
+O001406,C0026,2023-12-25,Beauty,Shampoo,1,29.66,France,Credit Card
+O001407,C0226,2024-08-25,Electronics,Keyboard,2,134.75,Spain,Bank Transfer
+O001408,C0285,2023-01-17,Electronics,Mouse,3,182.33,France,PayPal
+O001409,C0004,2023-10-01,Accessories,Watch,4,42.06,Germany,Bank Transfer
+O001410,C0099,2023-04-26,Home,Lamp,2,193.98,Germany,Bank Transfer
+O001411,C0039,2023-04-01,Clothing,Jacket,2,96.05,UK,Credit Card
+O001412,C0271,2023-03-23,Accessories,Necklace,4,189.69,Italy,Bank Transfer
+O001413,C0285,2023-11-20,Home,Lamp,4,138.6,Germany,PayPal
+O001414,C0157,2023-04-24,Clothing,Jeans,2,67.3,UK,PayPal
+O001415,C0075,2023-02-27,Home,Pillow,1,45.78,France,Credit Card
+O001416,C0288,2023-06-03,Clothing,Jacket,2,67.71,Spain,PayPal
+O001417,C0130,2024-02-08,Clothing,Jeans,4,27.67,UK,PayPal
+O001418,C0175,2024-09-19,Beauty,Cream,2,37.33,UK,Credit Card
+O001419,C0084,2023-09-23,Home,Lamp,1,29.89,Germany,PayPal
+O001420,C0022,2023-11-11,Electronics,Mouse,3,90.36,Spain,Bank Transfer
+O001421,C0027,2023-02-10,Sports,Backpack,3,161.16,UK,PayPal
+O001422,C0195,2023-04-15,Accessories,Watch,2,36.86,Spain,Bank Transfer
+O001423,C0236,2023-07-12,Accessories,Necklace,1,34.76,Germany,PayPal
+O001424,C0092,2024-02-05,Electronics,Keyboard,3,132.25,France,Bank Transfer
+O001425,C0021,2023-10-05,Clothing,T-Shirt,2,47.46,France,Credit Card
+O001426,C0084,2023-12-20,Clothing,Jeans,2,28.55,UK,PayPal
+O001427,C0262,2024-08-02,Clothing,Jeans,1,41.7,UK,PayPal
+O001428,C0147,2023-09-13,Home,Lamp,4,185.51,France,Bank Transfer
+O001429,C0257,2023-04-09,Home,Cookware,2,166.08,UK,Bank Transfer
+O001430,C0058,2024-08-10,Beauty,Shampoo,4,77.27,Germany,Credit Card
+O001431,C0015,2023-10-09,Electronics,Keyboard,4,134.61,Spain,Credit Card
+O001432,C0162,2024-02-07,Clothing,T-Shirt,3,112.08,Spain,Bank Transfer
+O001433,C0163,2023-04-19,Home,Cookware,4,138.65,UK,PayPal
+O001434,C0281,2023-07-18,Sports,Backpack,1,139.71,Italy,Bank Transfer
+O001435,C0280,2023-10-30,Electronics,Headphones,3,129.46,Italy,PayPal
+O001436,C0012,2023-11-23,Accessories,Necklace,3,60.56,Italy,PayPal
+O001437,C0274,2023-06-03,Electronics,Mouse,3,17.41,Spain,Credit Card
+O001438,C0271,2024-07-05,Sports,Backpack,2,96.56,Germany,PayPal
+O001439,C0208,2024-10-06,Sports,Yoga Mat,2,179.29,France,Credit Card
+O001440,C0027,2024-02-09,Electronics,Headphones,4,118.2,Italy,Bank Transfer
+O001441,C0072,2024-04-06,Beauty,Shampoo,3,168.15,Spain,PayPal
+O001442,C0060,2023-05-12,Sports,Backpack,3,198.41,Italy,PayPal
+O001443,C0145,2023-03-25,Home,Lamp,1,41.09,France,Credit Card
+O001444,C0093,2024-02-03,Clothing,T-Shirt,4,141.44,UK,Credit Card
+O001445,C0008,2024-09-19,Accessories,Belt,1,138.12,Spain,Bank Transfer
+O001446,C0079,2023-04-19,Clothing,Jacket,4,196.19,Germany,Credit Card
+O001447,C0027,2023-08-09,Accessories,Necklace,4,197.26,Spain,Bank Transfer
+O001448,C0174,2024-07-06,Beauty,Perfume,2,140.47,Italy,Credit Card
+O001449,C0050,2024-01-03,Sports,Sneakers,2,56.29,Italy,Bank Transfer
+O001450,C0199,2023-05-27,Electronics,Mouse,1,161.73,Italy,Credit Card
+O001451,C0181,2023-04-22,Beauty,Perfume,4,30.34,Italy,Bank Transfer
+O001452,C0024,2024-09-06,Electronics,Keyboard,3,158.33,Spain,Bank Transfer
+O001453,C0046,2024-07-11,Electronics,Keyboard,2,182.94,Spain,PayPal
+O001454,C0015,2024-05-08,Electronics,Keyboard,3,82.74,France,Credit Card
+O001455,C0153,2024-05-19,Clothing,Jacket,1,129.82,Italy,PayPal
+O001456,C0222,2024-04-19,Beauty,Perfume,2,91.73,Italy,PayPal
+O001457,C0206,2023-09-28,Accessories,Watch,2,93.18,Germany,Bank Transfer
+O001458,C0273,2024-02-25,Electronics,Mouse,4,68.97,Italy,Bank Transfer
+O001459,C0236,2024-01-02,Accessories,Belt,1,154.8,Italy,PayPal
+O001460,C0228,2023-10-07,Home,Pillow,4,187.87,France,Bank Transfer
+O001461,C0009,2023-10-10,Electronics,Headphones,2,188.74,Italy,Bank Transfer
+O001462,C0166,2023-02-09,Home,Cookware,1,43.21,Spain,PayPal
+O001463,C0214,2023-07-08,Home,Lamp,2,176.2,Spain,Credit Card
+O001464,C0117,2023-06-13,Accessories,Watch,1,150.11,Italy,PayPal
+O001465,C0072,2024-06-19,Home,Lamp,2,58.04,France,PayPal
+O001466,C0064,2024-06-19,Sports,Yoga Mat,3,22.78,Germany,Bank Transfer
+O001467,C0205,2023-01-04,Home,Cookware,3,60.92,France,Credit Card
+O001468,C0209,2023-10-17,Sports,Yoga Mat,4,183.32,UK,Credit Card
+O001469,C0072,2024-03-08,Beauty,Cream,3,130.3,UK,PayPal
+O001470,C0277,2024-04-15,Electronics,Mouse,2,147.0,Germany,PayPal
+O001471,C0274,2023-06-30,Sports,Yoga Mat,2,58.86,Italy,Bank Transfer
+O001472,C0095,2023-09-05,Beauty,Shampoo,3,146.68,Italy,Credit Card
+O001473,C0166,2024-09-19,Beauty,Cream,4,15.34,UK,Bank Transfer
+O001474,C0032,2023-10-06,Beauty,Cream,3,81.31,France,Bank Transfer
+O001475,C0011,2024-08-03,Home,Lamp,1,129.08,UK,Credit Card
+O001476,C0217,2023-09-11,Sports,Backpack,1,37.76,Germany,Bank Transfer
+O001477,C0289,2023-06-30,Clothing,Jacket,1,166.37,UK,PayPal
+O001478,C0102,2024-05-23,Accessories,Necklace,3,54.66,UK,Bank Transfer
+O001479,C0267,2024-07-19,Electronics,Keyboard,3,133.93,UK,Credit Card
+O001480,C0214,2023-11-22,Home,Cookware,3,86.99,Spain,Bank Transfer
+O001481,C0179,2023-12-23,Electronics,Headphones,1,123.25,France,Bank Transfer
+O001482,C0088,2024-10-11,Accessories,Necklace,4,30.42,Germany,PayPal
+O001483,C0041,2024-01-26,Clothing,T-Shirt,2,13.21,Germany,PayPal
+O001484,C0076,2024-09-06,Accessories,Watch,3,182.82,France,Credit Card
+O001485,C0046,2023-03-26,Accessories,Belt,4,61.23,France,Bank Transfer
+O001486,C0160,2023-11-13,Home,Cookware,2,165.74,France,Credit Card
+O001487,C0080,2023-07-31,Beauty,Shampoo,2,199.88,France,Credit Card
+O001488,C0086,2024-05-29,Accessories,Belt,2,50.17,UK,PayPal
+O001489,C0092,2024-01-19,Electronics,Keyboard,4,60.38,Spain,Bank Transfer
+O001490,C0148,2023-12-08,Accessories,Belt,4,135.94,Spain,Bank Transfer
+O001491,C0161,2023-02-07,Clothing,Jacket,1,193.44,Germany,Bank Transfer
+O001492,C0202,2024-05-25,Clothing,Jeans,4,184.0,France,PayPal
+O001493,C0242,2024-02-24,Home,Lamp,4,105.55,Germany,Credit Card
+O001494,C0002,2023-06-18,Sports,Yoga Mat,4,161.07,UK,Credit Card
+O001495,C0225,2023-12-09,Electronics,Mouse,2,35.79,Spain,Credit Card
+O001496,C0289,2023-11-02,Clothing,T-Shirt,3,195.71,Italy,Credit Card
+O001497,C0233,2024-06-25,Clothing,Jeans,1,193.23,France,Credit Card
+O001498,C0077,2024-06-20,Electronics,Keyboard,3,41.11,Italy,Credit Card
+O001499,C0116,2023-04-22,Sports,Backpack,3,66.89,UK,Bank Transfer
+O001500,C0154,2024-02-15,Home,Lamp,4,29.03,France,Credit Card
+O001501,C0103,2023-07-25,Electronics,Headphones,1,61.63,Germany,Credit Card
+O001502,C0194,2023-07-04,Accessories,Necklace,3,165.03,UK,Credit Card
+O001503,C0166,2024-01-17,Clothing,Jacket,3,81.88,UK,PayPal
+O001504,C0090,2024-05-10,Home,Lamp,1,26.8,Spain,Credit Card
+O001505,C0174,2024-01-14,Electronics,Mouse,4,75.02,UK,Credit Card
+O001506,C0122,2023-02-16,Home,Pillow,3,196.46,Germany,Bank Transfer
+O001507,C0143,2024-07-04,Electronics,Mouse,2,129.64,Germany,Bank Transfer
+O001508,C0106,2024-06-11,Sports,Yoga Mat,3,89.07,Italy,Credit Card
+O001509,C0123,2024-05-18,Home,Cookware,2,41.64,Germany,Credit Card
+O001510,C0009,2023-01-22,Home,Lamp,4,197.37,Spain,PayPal
+O001511,C0262,2023-08-01,Accessories,Watch,3,165.96,Spain,Bank Transfer
+O001512,C0073,2023-11-06,Accessories,Watch,1,63.48,Germany,PayPal
+O001513,C0223,2023-09-29,Home,Cookware,1,23.31,Italy,Bank Transfer
+O001514,C0041,2024-07-24,Sports,Backpack,3,20.76,UK,PayPal
+O001515,C0204,2023-07-21,Sports,Sneakers,4,32.87,Italy,PayPal
+O001516,C0264,2023-02-01,Sports,Sneakers,4,120.35,France,PayPal
+O001517,C0178,2024-03-18,Beauty,Perfume,1,186.47,France,Bank Transfer
+O001518,C0084,2023-06-11,Accessories,Belt,3,104.38,UK,PayPal
+O001519,C0111,2023-09-11,Home,Lamp,4,170.16,Spain,Credit Card
+O001520,C0251,2024-06-04,Accessories,Necklace,1,94.72,France,PayPal
+O001521,C0007,2024-04-24,Sports,Yoga Mat,2,144.63,Germany,Credit Card
+O001522,C0084,2023-01-10,Electronics,Headphones,3,149.06,Spain,PayPal
+O001523,C0208,2024-05-19,Beauty,Cream,2,43.05,France,PayPal
+O001524,C0022,2024-07-13,Clothing,T-Shirt,2,78.63,Italy,Bank Transfer
+O001525,C0003,2024-03-11,Electronics,Mouse,4,131.09,France,Credit Card
+O001526,C0127,2023-04-21,Home,Pillow,4,23.43,Germany,Bank Transfer
+O001527,C0297,2023-06-02,Clothing,Jeans,4,78.69,Spain,PayPal
+O001528,C0188,2024-09-26,Beauty,Perfume,3,111.61,UK,Credit Card
+O001529,C0014,2023-04-12,Accessories,Watch,2,199.28,Spain,Bank Transfer
+O001530,C0012,2023-07-10,Beauty,Shampoo,3,100.16,Germany,PayPal
+O001531,C0087,2024-07-16,Clothing,T-Shirt,4,165.05,Italy,Bank Transfer
+O001532,C0012,2023-03-22,Electronics,Keyboard,2,92.09,Spain,PayPal
+O001533,C0025,2024-05-03,Accessories,Belt,3,161.31,UK,Credit Card
+O001534,C0243,2023-03-29,Beauty,Cream,3,123.13,UK,Credit Card
+O001535,C0122,2023-07-13,Beauty,Perfume,1,178.45,France,Bank Transfer
+O001536,C0147,2023-04-14,Accessories,Belt,3,88.08,Spain,PayPal
+O001537,C0055,2023-04-06,Accessories,Watch,4,124.82,Italy,Bank Transfer
+O001538,C0238,2024-02-27,Electronics,Keyboard,3,129.7,Italy,Credit Card
+O001539,C0173,2023-07-17,Accessories,Necklace,2,89.3,France,Credit Card
+O001540,C0221,2023-01-01,Sports,Yoga Mat,3,37.42,France,PayPal
+O001541,C0119,2024-02-11,Sports,Sneakers,1,27.78,Germany,Bank Transfer
+O001542,C0183,2024-01-13,Sports,Sneakers,2,13.17,UK,Credit Card
+O001543,C0288,2023-06-16,Clothing,Jeans,2,175.97,France,PayPal
+O001544,C0300,2024-05-23,Home,Pillow,1,54.93,Italy,Credit Card
+O001545,C0082,2024-09-29,Accessories,Necklace,4,50.19,Germany,PayPal
+O001546,C0211,2023-11-09,Home,Pillow,2,149.85,Germany,PayPal
+O001547,C0150,2024-08-15,Accessories,Necklace,4,70.8,UK,Bank Transfer
+O001548,C0037,2024-02-22,Electronics,Mouse,2,106.15,UK,Credit Card
+O001549,C0059,2024-04-21,Electronics,Mouse,2,40.88,France,Credit Card
+O001550,C0131,2023-03-14,Accessories,Necklace,4,192.35,Spain,Bank Transfer
+O001551,C0202,2023-05-21,Home,Pillow,2,171.8,Germany,Credit Card
+O001552,C0243,2024-08-04,Accessories,Belt,4,174.12,France,Credit Card
+O001553,C0035,2023-09-19,Beauty,Shampoo,1,87.29,France,Credit Card
+O001554,C0093,2023-12-06,Beauty,Shampoo,4,154.85,Spain,Bank Transfer
+O001555,C0207,2023-11-04,Beauty,Perfume,1,37.34,Germany,Credit Card
+O001556,C0213,2023-09-02,Sports,Backpack,2,11.64,Italy,Credit Card
+O001557,C0159,2024-05-29,Home,Cookware,4,13.79,Italy,PayPal
+O001558,C0024,2023-12-03,Clothing,T-Shirt,2,121.45,Spain,Bank Transfer
+O001559,C0293,2024-07-28,Beauty,Shampoo,4,96.53,Italy,PayPal
+O001560,C0004,2024-07-14,Electronics,Mouse,1,108.42,France,Bank Transfer
+O001561,C0220,2023-03-17,Electronics,Mouse,1,11.42,Italy,Credit Card
+O001562,C0020,2023-06-24,Electronics,Keyboard,4,90.31,Spain,Credit Card
+O001563,C0152,2023-04-19,Clothing,Jeans,1,146.43,Spain,PayPal
+O001564,C0050,2023-07-02,Beauty,Perfume,2,94.11,Italy,PayPal
+O001565,C0177,2023-07-11,Electronics,Mouse,2,149.12,Spain,Credit Card
+O001566,C0096,2023-03-06,Accessories,Watch,3,54.27,Italy,Credit Card
+O001567,C0105,2024-04-18,Clothing,Jeans,1,164.5,Germany,Bank Transfer
+O001568,C0250,2023-04-10,Clothing,T-Shirt,2,121.8,UK,PayPal
+O001569,C0117,2024-06-27,Home,Pillow,4,50.04,Italy,PayPal
+O001570,C0228,2023-05-08,Electronics,Mouse,1,54.98,France,PayPal
+O001571,C0066,2024-03-27,Electronics,Mouse,2,129.33,France,Bank Transfer
+O001572,C0262,2024-01-04,Beauty,Perfume,1,167.69,Germany,PayPal
+O001573,C0295,2023-02-12,Beauty,Shampoo,4,88.97,France,Bank Transfer
+O001574,C0243,2024-02-23,Sports,Yoga Mat,2,59.08,France,Credit Card
+O001575,C0186,2024-05-02,Accessories,Watch,3,174.73,Italy,PayPal
+O001576,C0246,2023-03-19,Accessories,Belt,3,137.16,Italy,Credit Card
+O001577,C0125,2023-09-27,Home,Cookware,1,95.14,UK,Credit Card
+O001578,C0268,2023-11-11,Beauty,Shampoo,4,102.7,Italy,Bank Transfer
+O001579,C0131,2023-06-17,Electronics,Headphones,2,48.81,France,PayPal
+O001580,C0237,2023-12-05,Sports,Backpack,4,129.09,Spain,PayPal
+O001581,C0018,2023-07-12,Accessories,Watch,2,78.16,Spain,Bank Transfer
+O001582,C0040,2024-03-28,Sports,Yoga Mat,1,199.17,UK,Bank Transfer
+O001583,C0021,2023-10-10,Home,Lamp,2,101.23,UK,PayPal
+O001584,C0225,2023-12-02,Accessories,Necklace,4,102.32,Italy,Credit Card
+O001585,C0282,2024-01-25,Accessories,Belt,4,117.51,Germany,PayPal
+O001586,C0008,2024-06-08,Sports,Sneakers,1,184.18,Spain,Credit Card
+O001587,C0100,2023-08-28,Home,Cookware,4,162.16,Spain,PayPal
+O001588,C0240,2024-04-27,Beauty,Shampoo,2,95.71,Germany,PayPal
+O001589,C0087,2024-08-14,Beauty,Shampoo,1,146.55,Spain,Credit Card
+O001590,C0298,2024-07-08,Accessories,Necklace,2,121.38,UK,Bank Transfer
+O001591,C0014,2024-04-02,Beauty,Shampoo,4,103.55,France,Bank Transfer
+O001592,C0002,2023-03-30,Home,Pillow,1,46.54,Germany,Credit Card
+O001593,C0293,2023-04-05,Accessories,Necklace,2,98.15,Germany,PayPal
+O001594,C0041,2024-03-27,Home,Cookware,4,56.71,Italy,Credit Card
+O001595,C0111,2024-03-03,Beauty,Shampoo,4,183.82,Spain,Credit Card
+O001596,C0014,2023-05-31,Home,Lamp,3,73.73,UK,Credit Card
+O001597,C0231,2024-05-28,Home,Pillow,4,190.93,Spain,Credit Card
+O001598,C0084,2024-01-11,Accessories,Belt,2,111.28,Spain,Bank Transfer
+O001599,C0130,2023-01-22,Home,Cookware,1,129.99,UK,Bank Transfer
+O001600,C0231,2023-11-09,Electronics,Keyboard,3,113.16,Spain,PayPal
+O001601,C0145,2024-06-02,Home,Pillow,4,34.58,Italy,Credit Card
+O001602,C0028,2023-07-25,Clothing,Jacket,4,81.41,UK,PayPal
+O001603,C0066,2024-01-10,Clothing,Jeans,4,28.84,Italy,PayPal
+O001604,C0163,2024-03-26,Home,Cookware,2,128.36,France,Credit Card
+O001605,C0229,2024-09-17,Accessories,Necklace,3,94.91,Spain,PayPal
+O001606,C0261,2024-08-17,Sports,Backpack,2,157.82,Italy,PayPal
+O001607,C0164,2023-06-28,Home,Pillow,3,51.89,Germany,Bank Transfer
+O001608,C0287,2023-07-29,Clothing,Jeans,1,41.27,France,Bank Transfer
+O001609,C0010,2024-05-14,Accessories,Necklace,2,87.2,Spain,PayPal
+O001610,C0195,2024-04-08,Sports,Backpack,2,186.05,Germany,Credit Card
+O001611,C0118,2023-05-04,Clothing,Jeans,1,144.98,UK,Bank Transfer
+O001612,C0270,2023-04-23,Home,Cookware,3,89.6,Germany,PayPal
+O001613,C0080,2023-01-12,Sports,Yoga Mat,4,108.28,Germany,Credit Card
+O001614,C0093,2023-05-06,Home,Cookware,1,26.0,Spain,PayPal
+O001615,C0266,2024-07-18,Sports,Sneakers,4,197.07,Spain,Bank Transfer
+O001616,C0257,2023-11-27,Clothing,Jacket,4,136.62,Spain,Bank Transfer
+O001617,C0133,2023-10-10,Clothing,Jacket,1,64.23,Italy,PayPal
+O001618,C0276,2023-05-20,Accessories,Watch,3,121.3,UK,PayPal
+O001619,C0264,2024-02-05,Clothing,Jacket,4,30.8,Germany,Bank Transfer
+O001620,C0171,2023-04-07,Accessories,Watch,1,193.51,Spain,PayPal
+O001621,C0001,2024-05-31,Beauty,Cream,2,43.21,Spain,PayPal
+O001622,C0064,2024-07-22,Home,Lamp,2,133.13,Italy,PayPal
+O001623,C0284,2023-03-10,Accessories,Belt,2,56.64,Italy,Credit Card
+O001624,C0121,2023-04-28,Clothing,Jeans,1,146.34,France,Bank Transfer
+O001625,C0107,2023-02-28,Beauty,Perfume,2,157.6,Spain,PayPal
+O001626,C0175,2023-02-02,Sports,Sneakers,4,137.95,Germany,Bank Transfer
+O001627,C0204,2023-11-14,Home,Lamp,2,126.75,Germany,Bank Transfer
+O001628,C0165,2023-02-19,Clothing,T-Shirt,2,179.57,UK,Bank Transfer
+O001629,C0120,2024-05-03,Accessories,Belt,4,24.94,France,Bank Transfer
+O001630,C0044,2023-01-19,Electronics,Mouse,2,72.87,Spain,PayPal
+O001631,C0156,2023-07-16,Sports,Backpack,4,57.17,Germany,Bank Transfer
+O001632,C0207,2024-03-25,Electronics,Keyboard,2,197.72,Italy,Bank Transfer
+O001633,C0108,2024-07-12,Home,Cookware,4,83.98,Germany,Bank Transfer
+O001634,C0251,2024-03-27,Beauty,Perfume,2,149.2,Spain,Bank Transfer
+O001635,C0130,2023-10-16,Home,Cookware,4,140.1,UK,Credit Card
+O001636,C0293,2023-05-21,Sports,Sneakers,1,50.3,Italy,Credit Card
+O001637,C0020,2023-03-25,Accessories,Necklace,4,55.41,Italy,Credit Card
+O001638,C0282,2024-01-26,Clothing,T-Shirt,2,63.44,Germany,Bank Transfer
+O001639,C0285,2024-08-13,Home,Lamp,2,88.11,UK,Credit Card
+O001640,C0001,2023-08-03,Beauty,Cream,3,54.52,UK,Bank Transfer
+O001641,C0119,2024-06-09,Home,Cookware,4,13.73,Germany,Bank Transfer
+O001642,C0035,2023-08-03,Sports,Sneakers,1,177.08,Germany,Credit Card
+O001643,C0198,2024-02-07,Clothing,T-Shirt,4,193.47,Italy,Credit Card
+O001644,C0245,2023-05-08,Home,Lamp,4,74.9,Italy,Bank Transfer
+O001645,C0059,2024-04-21,Sports,Backpack,1,74.32,UK,PayPal
+O001646,C0161,2024-02-08,Beauty,Cream,4,11.35,UK,Bank Transfer
+O001647,C0179,2023-01-29,Electronics,Headphones,1,139.25,Italy,Bank Transfer
+O001648,C0206,2023-12-04,Sports,Sneakers,1,166.83,France,PayPal
+O001649,C0012,2023-12-27,Beauty,Cream,4,37.86,Spain,Credit Card
+O001650,C0276,2024-07-22,Beauty,Shampoo,4,40.34,Italy,Bank Transfer
+O001651,C0181,2024-01-27,Accessories,Necklace,2,160.12,UK,PayPal
+O001652,C0242,2023-08-06,Accessories,Watch,2,127.1,UK,PayPal
+O001653,C0216,2024-07-27,Beauty,Perfume,3,18.52,Italy,Bank Transfer
+O001654,C0251,2023-07-21,Beauty,Perfume,3,128.28,UK,Bank Transfer
+O001655,C0299,2023-01-17,Home,Lamp,4,68.69,Germany,Bank Transfer
+O001656,C0126,2023-11-18,Clothing,T-Shirt,1,80.06,UK,Credit Card
+O001657,C0217,2024-06-01,Electronics,Headphones,3,156.25,UK,PayPal
+O001658,C0285,2024-07-23,Beauty,Cream,4,164.08,Germany,Credit Card
+O001659,C0185,2023-11-21,Sports,Yoga Mat,3,86.07,France,Credit Card
+O001660,C0039,2024-02-16,Sports,Sneakers,1,189.96,Germany,Bank Transfer
+O001661,C0223,2023-11-14,Home,Cookware,4,87.23,Italy,Credit Card
+O001662,C0184,2023-03-23,Clothing,Jeans,1,156.65,Italy,Bank Transfer
+O001663,C0178,2024-04-18,Sports,Yoga Mat,4,101.94,Spain,PayPal
+O001664,C0294,2024-04-12,Clothing,Jeans,3,180.53,Spain,PayPal
+O001665,C0151,2024-02-29,Beauty,Perfume,2,182.47,Italy,Bank Transfer
+O001666,C0126,2023-07-23,Beauty,Shampoo,3,26.61,Spain,Credit Card
+O001667,C0234,2024-08-05,Sports,Backpack,3,187.93,France,Bank Transfer
+O001668,C0008,2024-01-22,Sports,Yoga Mat,2,166.85,UK,Bank Transfer
+O001669,C0129,2023-04-08,Electronics,Mouse,2,160.35,Italy,Credit Card
+O001670,C0264,2023-12-11,Home,Pillow,4,48.17,Italy,Credit Card
+O001671,C0157,2023-07-27,Electronics,Headphones,4,162.97,France,Credit Card
+O001672,C0005,2024-05-28,Electronics,Headphones,1,171.53,France,PayPal
+O001673,C0086,2024-09-27,Accessories,Watch,1,64.94,Italy,Credit Card
+O001674,C0175,2024-08-08,Sports,Yoga Mat,3,190.93,UK,PayPal
+O001675,C0290,2023-06-15,Sports,Sneakers,2,19.47,UK,Bank Transfer
+O001676,C0193,2023-01-22,Accessories,Watch,1,38.48,Spain,Bank Transfer
+O001677,C0119,2023-06-03,Sports,Backpack,3,112.14,UK,PayPal
+O001678,C0218,2024-03-14,Electronics,Mouse,2,119.4,Italy,PayPal
+O001679,C0114,2023-10-22,Accessories,Belt,4,132.58,France,Bank Transfer
+O001680,C0145,2023-08-07,Accessories,Belt,3,13.22,France,PayPal
+O001681,C0026,2024-05-09,Sports,Backpack,4,192.47,UK,Bank Transfer
+O001682,C0136,2023-08-18,Clothing,Jacket,1,18.47,Italy,Credit Card
+O001683,C0232,2023-01-20,Clothing,Jacket,1,37.18,UK,Bank Transfer
+O001684,C0076,2024-07-06,Accessories,Necklace,2,12.66,Spain,Credit Card
+O001685,C0289,2023-05-28,Home,Cookware,3,117.7,France,Credit Card
+O001686,C0001,2023-04-18,Home,Cookware,4,187.13,Germany,PayPal
+O001687,C0147,2024-02-07,Electronics,Headphones,2,136.53,France,PayPal
+O001688,C0287,2024-08-18,Sports,Backpack,1,166.3,France,PayPal
+O001689,C0142,2024-04-27,Electronics,Keyboard,1,12.52,Italy,Credit Card
+O001690,C0053,2024-01-02,Clothing,Jacket,3,112.98,France,Credit Card
+O001691,C0069,2024-02-18,Home,Pillow,4,97.32,France,Credit Card
+O001692,C0090,2023-11-05,Beauty,Perfume,3,104.8,Germany,PayPal
+O001693,C0220,2023-05-14,Sports,Yoga Mat,4,23.72,Germany,Credit Card
+O001694,C0192,2023-10-10,Beauty,Perfume,4,140.04,UK,Credit Card
+O001695,C0063,2023-03-14,Home,Cookware,3,105.61,Germany,Bank Transfer
+O001696,C0073,2024-04-25,Beauty,Cream,2,155.38,France,PayPal
+O001697,C0161,2023-12-18,Home,Cookware,3,102.21,Spain,PayPal
+O001698,C0169,2024-07-13,Beauty,Perfume,3,38.38,Germany,Bank Transfer
+O001699,C0089,2023-11-22,Electronics,Mouse,1,133.17,Germany,PayPal
+O001700,C0176,2024-03-18,Sports,Yoga Mat,1,42.75,France,Bank Transfer
+O001701,C0269,2023-04-10,Accessories,Watch,3,175.75,Spain,PayPal
+O001702,C0073,2023-02-28,Home,Cookware,3,126.49,France,Bank Transfer
+O001703,C0245,2024-05-22,Electronics,Keyboard,1,39.87,UK,PayPal
+O001704,C0077,2023-09-15,Home,Lamp,4,192.84,UK,Credit Card
+O001705,C0159,2024-02-17,Sports,Backpack,3,108.49,Italy,Credit Card
+O001706,C0098,2024-03-27,Beauty,Cream,2,23.85,Italy,Credit Card
+O001707,C0102,2023-03-06,Sports,Backpack,2,129.1,UK,Bank Transfer
+O001708,C0132,2024-08-17,Clothing,Jeans,2,58.11,France,PayPal
+O001709,C0102,2023-06-03,Sports,Backpack,3,162.7,Spain,Credit Card
+O001710,C0019,2023-09-23,Clothing,Jacket,4,165.39,Italy,Credit Card
+O001711,C0082,2023-03-20,Home,Lamp,4,196.0,Spain,Bank Transfer
+O001712,C0279,2023-11-11,Beauty,Cream,1,105.36,Italy,PayPal
+O001713,C0129,2024-07-13,Beauty,Cream,3,96.44,Spain,PayPal
+O001714,C0089,2023-09-05,Clothing,Jeans,4,153.16,Italy,Credit Card
+O001715,C0213,2024-09-01,Accessories,Belt,3,35.17,Italy,PayPal
+O001716,C0143,2024-02-18,Accessories,Necklace,1,113.91,France,Credit Card
+O001717,C0065,2023-01-25,Electronics,Headphones,1,113.79,France,Bank Transfer
+O001718,C0076,2023-10-11,Sports,Yoga Mat,1,27.0,France,Bank Transfer
+O001719,C0199,2024-03-24,Beauty,Perfume,2,89.42,Germany,Credit Card
+O001720,C0143,2023-10-28,Sports,Backpack,3,172.12,France,Bank Transfer
+O001721,C0093,2023-03-09,Electronics,Keyboard,1,172.67,UK,PayPal
+O001722,C0224,2023-01-07,Home,Lamp,3,28.86,Germany,Credit Card
+O001723,C0291,2023-05-17,Home,Lamp,2,27.24,Germany,Credit Card
+O001724,C0102,2023-06-13,Sports,Yoga Mat,2,59.91,Italy,Credit Card
+O001725,C0267,2023-03-24,Electronics,Headphones,1,176.21,Italy,Bank Transfer
+O001726,C0110,2024-10-11,Clothing,T-Shirt,1,34.49,France,Credit Card
+O001727,C0265,2024-02-24,Beauty,Perfume,4,146.8,France,Credit Card
+O001728,C0003,2023-03-14,Beauty,Perfume,3,29.22,France,Credit Card
+O001729,C0085,2023-08-25,Sports,Backpack,1,128.4,Spain,Credit Card
+O001730,C0282,2023-02-15,Electronics,Headphones,4,77.65,France,Bank Transfer
+O001731,C0117,2024-09-09,Beauty,Shampoo,3,159.89,Spain,Credit Card
+O001732,C0221,2023-09-19,Sports,Backpack,1,54.4,Spain,Bank Transfer
+O001733,C0154,2023-06-25,Electronics,Mouse,4,131.45,UK,Credit Card
+O001734,C0153,2023-06-15,Electronics,Keyboard,4,54.78,UK,Bank Transfer
+O001735,C0012,2024-01-05,Sports,Sneakers,3,145.6,France,Bank Transfer
+O001736,C0133,2023-02-23,Electronics,Headphones,4,176.0,UK,PayPal
+O001737,C0293,2024-02-23,Electronics,Mouse,3,34.09,France,PayPal
+O001738,C0300,2024-05-21,Clothing,T-Shirt,3,174.65,UK,Credit Card
+O001739,C0228,2023-12-07,Sports,Sneakers,3,122.78,Spain,Bank Transfer
+O001740,C0271,2023-05-07,Electronics,Keyboard,2,34.15,France,Credit Card
+O001741,C0043,2024-02-13,Electronics,Headphones,4,91.23,Germany,Bank Transfer
+O001742,C0021,2024-01-02,Electronics,Headphones,3,40.56,UK,Credit Card
+O001743,C0107,2023-09-28,Home,Lamp,1,143.07,Spain,Credit Card
+O001744,C0117,2024-10-05,Sports,Sneakers,2,154.18,Italy,Bank Transfer
+O001745,C0124,2024-08-27,Accessories,Watch,2,30.1,Spain,PayPal
+O001746,C0281,2024-01-14,Home,Cookware,4,106.17,Spain,PayPal
+O001747,C0292,2023-03-14,Home,Pillow,3,164.78,Germany,Credit Card
+O001748,C0203,2023-09-05,Accessories,Belt,4,187.87,UK,Bank Transfer
+O001749,C0051,2023-02-12,Sports,Yoga Mat,2,107.57,UK,Credit Card
+O001750,C0271,2024-01-12,Electronics,Headphones,3,190.55,Italy,PayPal
+O001751,C0277,2023-02-10,Beauty,Perfume,1,111.78,Italy,Bank Transfer
+O001752,C0141,2023-06-19,Beauty,Cream,3,84.9,France,PayPal
+O001753,C0275,2023-07-31,Electronics,Keyboard,2,171.16,France,Credit Card
+O001754,C0290,2024-05-07,Clothing,Jeans,1,103.67,Italy,Credit Card
+O001755,C0052,2023-02-08,Accessories,Watch,3,99.66,France,Credit Card
+O001756,C0027,2024-01-04,Accessories,Belt,1,103.16,UK,PayPal
+O001757,C0157,2023-05-31,Beauty,Shampoo,1,170.89,Spain,Credit Card
+O001758,C0239,2023-04-21,Beauty,Cream,2,168.07,Italy,Credit Card
+O001759,C0156,2024-04-24,Sports,Backpack,1,86.67,Italy,Bank Transfer
+O001760,C0291,2024-03-11,Beauty,Cream,4,73.33,Italy,PayPal
+O001761,C0136,2023-02-16,Electronics,Headphones,2,103.47,UK,Bank Transfer
+O001762,C0144,2024-07-28,Sports,Yoga Mat,4,118.83,Germany,Bank Transfer
+O001763,C0106,2024-01-01,Clothing,T-Shirt,1,55.28,UK,PayPal
+O001764,C0158,2023-03-10,Home,Lamp,4,160.85,UK,Credit Card
+O001765,C0146,2023-10-26,Clothing,Jacket,3,102.43,Italy,Credit Card
+O001766,C0002,2023-10-23,Beauty,Shampoo,1,73.47,Germany,PayPal
+O001767,C0077,2023-07-22,Accessories,Necklace,3,30.3,Spain,Bank Transfer
+O001768,C0132,2023-03-02,Electronics,Keyboard,4,55.38,UK,Credit Card
+O001769,C0090,2023-11-10,Home,Lamp,3,190.36,Italy,PayPal
+O001770,C0263,2023-06-10,Sports,Sneakers,1,67.97,Italy,Credit Card
+O001771,C0108,2023-11-27,Sports,Backpack,3,42.08,UK,Bank Transfer
+O001772,C0074,2024-06-11,Accessories,Belt,4,97.53,Italy,Bank Transfer
+O001773,C0039,2023-12-04,Accessories,Watch,4,68.35,UK,Credit Card
+O001774,C0159,2024-08-28,Sports,Yoga Mat,4,16.68,Germany,Credit Card
+O001775,C0071,2023-10-31,Sports,Sneakers,1,71.4,Spain,PayPal
+O001776,C0241,2024-05-17,Accessories,Watch,4,113.38,UK,PayPal
+O001777,C0298,2024-10-11,Home,Cookware,1,114.83,Italy,Credit Card
+O001778,C0036,2023-12-04,Electronics,Keyboard,3,77.75,Spain,Credit Card
+O001779,C0084,2024-07-03,Sports,Yoga Mat,4,94.99,Spain,PayPal
+O001780,C0263,2024-09-30,Accessories,Watch,3,193.45,Italy,PayPal
+O001781,C0172,2023-10-02,Home,Lamp,2,81.7,France,Credit Card
+O001782,C0173,2023-06-13,Beauty,Cream,3,59.06,Spain,PayPal
+O001783,C0047,2024-03-18,Clothing,T-Shirt,2,56.26,Italy,Credit Card
+O001784,C0141,2023-11-15,Home,Lamp,3,96.98,UK,Bank Transfer
+O001785,C0118,2024-08-11,Accessories,Belt,1,154.31,Germany,Bank Transfer
+O001786,C0277,2024-05-18,Home,Cookware,3,49.14,UK,Bank Transfer
+O001787,C0214,2024-01-22,Accessories,Watch,1,144.77,UK,Credit Card
+O001788,C0220,2024-08-25,Accessories,Necklace,1,14.02,Italy,Credit Card
+O001789,C0026,2024-05-08,Accessories,Necklace,4,89.6,UK,Credit Card
+O001790,C0009,2024-05-04,Clothing,Jeans,1,157.41,UK,Bank Transfer
+O001791,C0271,2023-03-14,Sports,Backpack,2,74.36,Italy,Bank Transfer
+O001792,C0010,2024-05-23,Electronics,Mouse,4,117.11,Germany,PayPal
+O001793,C0121,2024-01-25,Electronics,Headphones,4,48.95,UK,Bank Transfer
+O001794,C0125,2024-09-10,Home,Pillow,3,150.98,Spain,PayPal
+O001795,C0170,2023-10-22,Clothing,Jacket,1,19.93,Italy,Bank Transfer
+O001796,C0072,2024-01-04,Clothing,Jeans,1,171.98,Germany,Bank Transfer
+O001797,C0152,2024-07-02,Sports,Backpack,2,47.66,UK,PayPal
+O001798,C0208,2024-10-10,Beauty,Cream,3,176.14,UK,Bank Transfer
+O001799,C0049,2024-07-21,Beauty,Shampoo,3,76.98,Spain,PayPal
+O001800,C0154,2023-07-06,Accessories,Necklace,4,147.31,UK,PayPal
+O001801,C0293,2024-03-20,Clothing,Jeans,4,70.65,Italy,PayPal
+O001802,C0068,2024-07-23,Accessories,Necklace,4,182.12,Italy,Credit Card
+O001803,C0050,2023-12-29,Home,Lamp,2,34.06,UK,Bank Transfer
+O001804,C0152,2023-05-03,Electronics,Headphones,2,43.92,France,PayPal
+O001805,C0019,2023-07-07,Electronics,Headphones,4,103.68,Germany,Credit Card
+O001806,C0100,2024-02-24,Beauty,Perfume,3,25.57,Spain,Credit Card
+O001807,C0060,2024-09-17,Sports,Yoga Mat,2,47.24,France,Bank Transfer
+O001808,C0167,2023-09-09,Accessories,Necklace,3,189.32,Italy,PayPal
+O001809,C0202,2024-09-10,Accessories,Belt,3,195.53,France,PayPal
+O001810,C0146,2024-07-02,Clothing,T-Shirt,1,81.49,Spain,Credit Card
+O001811,C0164,2023-12-01,Electronics,Mouse,4,185.42,Germany,Bank Transfer
+O001812,C0242,2023-04-02,Electronics,Headphones,1,113.52,Italy,PayPal
+O001813,C0069,2024-06-13,Electronics,Headphones,4,61.25,Spain,PayPal
+O001814,C0175,2023-03-04,Accessories,Belt,4,143.46,Germany,PayPal
+O001815,C0049,2024-05-26,Sports,Sneakers,3,135.19,Germany,Credit Card
+O001816,C0108,2023-05-19,Clothing,Jeans,4,197.93,UK,Credit Card
+O001817,C0226,2023-07-04,Sports,Sneakers,3,60.36,Italy,Credit Card
+O001818,C0161,2023-07-24,Home,Cookware,3,137.69,Germany,Credit Card
+O001819,C0119,2023-08-02,Beauty,Perfume,4,19.88,Italy,Credit Card
+O001820,C0149,2023-09-13,Electronics,Keyboard,3,31.59,Germany,PayPal
+O001821,C0150,2023-05-15,Home,Lamp,3,10.74,Germany,PayPal
+O001822,C0293,2024-07-26,Electronics,Mouse,3,199.9,Spain,Credit Card
+O001823,C0143,2023-03-29,Accessories,Necklace,2,162.43,UK,PayPal
+O001824,C0160,2023-07-26,Home,Cookware,3,159.48,France,Bank Transfer
+O001825,C0011,2023-05-09,Beauty,Perfume,2,106.85,Spain,PayPal
+O001826,C0138,2023-01-03,Sports,Backpack,2,67.01,France,Credit Card
+O001827,C0078,2023-05-01,Beauty,Perfume,3,38.74,Germany,Bank Transfer
+O001828,C0077,2024-01-20,Beauty,Perfume,3,64.09,Spain,Bank Transfer
+O001829,C0254,2024-09-05,Home,Pillow,2,81.43,Spain,Bank Transfer
+O001830,C0258,2023-02-07,Sports,Backpack,2,153.7,Italy,Bank Transfer
+O001831,C0291,2023-12-07,Beauty,Perfume,3,112.54,Germany,Credit Card
+O001832,C0263,2024-10-06,Electronics,Keyboard,3,24.72,France,Credit Card
+O001833,C0085,2023-01-21,Sports,Yoga Mat,4,13.43,France,PayPal
+O001834,C0146,2023-08-30,Accessories,Watch,2,29.44,Spain,Bank Transfer
+O001835,C0042,2024-03-30,Clothing,Jacket,2,87.99,UK,Bank Transfer
+O001836,C0125,2024-09-12,Home,Cookware,4,187.31,UK,PayPal
+O001837,C0167,2023-10-30,Electronics,Headphones,2,131.11,Germany,Bank Transfer
+O001838,C0241,2024-08-18,Home,Pillow,1,162.35,Germany,Bank Transfer
+O001839,C0280,2024-08-17,Clothing,Jeans,2,98.61,Italy,PayPal
+O001840,C0188,2023-03-10,Beauty,Cream,4,78.72,Germany,Bank Transfer
+O001841,C0019,2023-05-09,Electronics,Headphones,1,30.6,Spain,Credit Card
+O001842,C0068,2023-07-15,Beauty,Shampoo,3,176.43,Spain,Bank Transfer
+O001843,C0218,2023-05-20,Sports,Sneakers,4,158.8,UK,PayPal
+O001844,C0102,2024-03-19,Clothing,Jeans,4,41.94,UK,Bank Transfer
+O001845,C0042,2023-10-10,Home,Cookware,3,107.33,France,Credit Card
+O001846,C0288,2023-11-08,Accessories,Watch,4,102.6,UK,PayPal
+O001847,C0167,2024-06-18,Sports,Sneakers,2,128.77,Italy,Bank Transfer
+O001848,C0109,2023-10-04,Sports,Yoga Mat,3,189.78,UK,PayPal
+O001849,C0036,2023-03-02,Clothing,Jeans,4,120.16,Germany,PayPal
+O001850,C0232,2023-11-15,Clothing,Jeans,3,112.64,Spain,Bank Transfer
+O001851,C0229,2023-02-21,Sports,Yoga Mat,3,19.56,UK,PayPal
+O001852,C0164,2023-06-02,Sports,Backpack,3,21.95,Italy,Bank Transfer
+O001853,C0073,2023-11-07,Home,Cookware,1,45.6,UK,PayPal
+O001854,C0136,2024-06-27,Home,Lamp,4,16.17,France,PayPal
+O001855,C0070,2024-07-20,Beauty,Cream,1,151.24,France,PayPal
+O001856,C0196,2024-01-24,Clothing,Jacket,4,147.43,UK,Credit Card
+O001857,C0269,2024-07-01,Sports,Yoga Mat,2,35.85,UK,Credit Card
+O001858,C0049,2024-09-13,Beauty,Perfume,2,168.85,UK,Bank Transfer
+O001859,C0130,2023-06-26,Electronics,Headphones,2,39.41,UK,Credit Card
+O001860,C0005,2023-12-28,Accessories,Belt,4,67.22,UK,Bank Transfer
+O001861,C0027,2023-11-10,Clothing,T-Shirt,3,57.31,Spain,Credit Card
+O001862,C0160,2023-04-07,Accessories,Necklace,3,80.74,Germany,Credit Card
+O001863,C0149,2023-08-01,Accessories,Belt,1,58.39,Spain,Credit Card
+O001864,C0264,2023-05-17,Clothing,T-Shirt,1,102.9,Germany,Bank Transfer
+O001865,C0230,2023-01-06,Beauty,Perfume,2,87.41,Germany,PayPal
+O001866,C0200,2023-04-19,Beauty,Shampoo,1,197.45,Germany,Credit Card
+O001867,C0050,2024-06-30,Home,Pillow,4,20.63,Spain,Bank Transfer
+O001868,C0067,2023-02-08,Sports,Backpack,4,37.01,Germany,PayPal
+O001869,C0300,2024-02-29,Sports,Yoga Mat,1,20.04,Germany,Credit Card
+O001870,C0058,2024-09-21,Accessories,Watch,1,128.91,Spain,Credit Card
+O001871,C0259,2023-09-18,Beauty,Cream,1,20.36,France,Bank Transfer
+O001872,C0130,2024-03-01,Accessories,Watch,1,168.92,France,Bank Transfer
+O001873,C0215,2023-03-28,Clothing,T-Shirt,2,107.27,UK,Bank Transfer
+O001874,C0172,2024-04-09,Beauty,Cream,2,110.13,UK,Bank Transfer
+O001875,C0258,2023-03-17,Accessories,Belt,1,116.7,France,PayPal
+O001876,C0102,2024-04-15,Accessories,Watch,4,42.45,Spain,Bank Transfer
+O001877,C0209,2024-02-18,Sports,Sneakers,2,47.56,Germany,Bank Transfer
+O001878,C0291,2024-04-01,Accessories,Belt,4,70.58,Germany,Bank Transfer
+O001879,C0286,2023-10-12,Beauty,Cream,3,122.76,Spain,Credit Card
+O001880,C0116,2023-08-27,Home,Lamp,4,49.92,France,Credit Card
+O001881,C0264,2024-08-21,Beauty,Shampoo,1,32.1,Germany,Bank Transfer
+O001882,C0150,2024-07-11,Accessories,Watch,3,194.32,Italy,PayPal
+O001883,C0300,2024-01-07,Beauty,Shampoo,2,14.18,Italy,Bank Transfer
+O001884,C0036,2024-05-09,Beauty,Shampoo,2,162.51,Italy,Credit Card
+O001885,C0287,2024-09-15,Sports,Sneakers,3,159.73,Italy,Bank Transfer
+O001886,C0208,2023-02-14,Electronics,Headphones,4,66.47,UK,Bank Transfer
+O001887,C0106,2024-02-05,Clothing,Jeans,2,35.77,UK,PayPal
+O001888,C0158,2023-09-04,Electronics,Headphones,1,37.67,Italy,PayPal
+O001889,C0121,2024-09-07,Sports,Backpack,3,142.51,UK,Credit Card
+O001890,C0055,2024-08-19,Home,Pillow,1,132.13,UK,Bank Transfer
+O001891,C0012,2024-03-25,Clothing,T-Shirt,3,158.72,UK,PayPal
+O001892,C0145,2024-04-29,Electronics,Headphones,2,188.12,UK,Bank Transfer
+O001893,C0136,2024-10-07,Accessories,Belt,4,141.47,Germany,Credit Card
+O001894,C0003,2024-09-11,Clothing,T-Shirt,3,39.61,France,Credit Card
+O001895,C0144,2023-01-18,Beauty,Cream,3,56.25,UK,Bank Transfer
+O001896,C0030,2024-08-28,Accessories,Necklace,1,170.02,Italy,Bank Transfer
+O001897,C0237,2023-10-16,Clothing,Jacket,2,49.77,Italy,PayPal
+O001898,C0279,2024-02-18,Home,Cookware,1,23.78,Italy,PayPal
+O001899,C0115,2024-09-29,Accessories,Necklace,2,143.62,Spain,Bank Transfer
+O001900,C0104,2023-08-23,Accessories,Belt,1,86.48,Spain,Bank Transfer
+O001901,C0118,2024-02-20,Accessories,Watch,3,184.81,Germany,PayPal
+O001902,C0005,2024-05-13,Electronics,Keyboard,1,133.55,Italy,Bank Transfer
+O001903,C0248,2024-09-25,Sports,Sneakers,4,27.18,Italy,Credit Card
+O001904,C0121,2024-10-11,Clothing,T-Shirt,2,190.09,Italy,Credit Card
+O001905,C0286,2023-04-25,Electronics,Keyboard,2,59.13,Italy,Bank Transfer
+O001906,C0149,2023-08-22,Clothing,T-Shirt,3,74.07,Germany,PayPal
+O001907,C0084,2024-06-23,Beauty,Shampoo,2,86.43,UK,Bank Transfer
+O001908,C0231,2023-01-11,Home,Lamp,4,19.73,UK,Credit Card
+O001909,C0288,2023-07-25,Accessories,Watch,1,104.34,Italy,PayPal
+O001910,C0161,2023-09-04,Accessories,Watch,3,33.43,France,PayPal
+O001911,C0272,2024-07-12,Beauty,Shampoo,4,86.18,France,PayPal
+O001912,C0038,2023-05-07,Beauty,Perfume,2,76.63,Italy,Bank Transfer
+O001913,C0226,2023-05-27,Beauty,Perfume,2,156.84,UK,PayPal
+O001914,C0142,2023-04-28,Accessories,Belt,4,162.6,Germany,Credit Card
+O001915,C0292,2024-01-17,Home,Cookware,1,39.15,Italy,PayPal
+O001916,C0151,2024-02-16,Clothing,Jacket,1,79.64,Spain,Credit Card
+O001917,C0114,2024-08-06,Electronics,Keyboard,3,80.94,Italy,Credit Card
+O001918,C0237,2023-12-29,Electronics,Headphones,2,38.77,Germany,Bank Transfer
+O001919,C0066,2024-05-23,Sports,Backpack,4,161.71,UK,PayPal
+O001920,C0258,2023-05-17,Sports,Yoga Mat,1,144.37,Spain,Credit Card
+O001921,C0249,2023-06-24,Clothing,T-Shirt,3,46.17,UK,PayPal
+O001922,C0180,2023-10-16,Electronics,Mouse,2,79.68,UK,Credit Card
+O001923,C0190,2024-04-25,Home,Lamp,2,30.1,Spain,PayPal
+O001924,C0154,2023-01-19,Home,Pillow,3,129.36,Italy,PayPal
+O001925,C0196,2023-07-14,Clothing,T-Shirt,3,33.06,UK,PayPal
+O001926,C0262,2023-11-26,Beauty,Perfume,1,197.33,France,Bank Transfer
+O001927,C0143,2023-06-24,Sports,Sneakers,4,158.33,Spain,Bank Transfer
+O001928,C0101,2024-03-24,Electronics,Headphones,2,84.15,France,Credit Card
+O001929,C0244,2023-12-20,Electronics,Keyboard,4,119.93,Italy,PayPal
+O001930,C0012,2024-05-13,Home,Cookware,2,183.15,Spain,Credit Card
+O001931,C0239,2023-05-21,Electronics,Keyboard,2,115.28,France,PayPal
+O001932,C0049,2023-04-03,Home,Cookware,4,43.15,Italy,Bank Transfer
+O001933,C0042,2023-08-27,Electronics,Headphones,3,81.95,France,PayPal
+O001934,C0166,2023-07-24,Clothing,Jacket,1,170.2,France,PayPal
+O001935,C0082,2024-07-13,Sports,Sneakers,2,132.4,France,PayPal
+O001936,C0291,2024-03-08,Electronics,Keyboard,3,133.64,Spain,Bank Transfer
+O001937,C0158,2023-09-02,Beauty,Shampoo,2,174.7,France,Credit Card
+O001938,C0216,2023-11-13,Home,Lamp,1,179.85,Germany,PayPal
+O001939,C0158,2023-10-22,Accessories,Necklace,2,184.76,UK,PayPal
+O001940,C0134,2024-10-01,Accessories,Watch,1,28.02,Italy,Bank Transfer
+O001941,C0067,2023-10-09,Clothing,Jeans,1,113.38,Germany,Credit Card
+O001942,C0007,2023-01-17,Accessories,Watch,2,150.7,Italy,PayPal
+O001943,C0014,2023-03-12,Clothing,T-Shirt,2,153.82,UK,Bank Transfer
+O001944,C0073,2023-09-26,Home,Pillow,1,125.28,UK,Bank Transfer
+O001945,C0163,2023-11-21,Electronics,Mouse,3,41.69,France,Credit Card
+O001946,C0066,2023-11-01,Beauty,Shampoo,4,161.51,Italy,PayPal
+O001947,C0130,2024-03-26,Accessories,Necklace,1,146.82,UK,Bank Transfer
+O001948,C0206,2023-01-07,Electronics,Headphones,2,26.37,Spain,PayPal
+O001949,C0276,2023-11-10,Home,Cookware,2,98.12,Spain,Credit Card
+O001950,C0256,2023-04-13,Electronics,Mouse,3,43.06,Spain,PayPal
+O001951,C0266,2023-07-12,Sports,Backpack,4,74.12,UK,Credit Card
+O001952,C0025,2024-07-27,Home,Pillow,1,13.44,Italy,PayPal
+O001953,C0281,2024-06-12,Sports,Backpack,1,86.06,France,Bank Transfer
+O001954,C0253,2023-06-20,Accessories,Watch,4,114.48,Spain,Bank Transfer
+O001955,C0289,2024-06-20,Sports,Yoga Mat,1,127.72,Spain,Credit Card
+O001956,C0164,2023-09-08,Clothing,Jacket,4,136.06,France,Bank Transfer
+O001957,C0095,2024-01-22,Electronics,Headphones,2,168.9,Spain,Bank Transfer
+O001958,C0270,2023-07-26,Home,Pillow,4,50.94,Germany,Bank Transfer
+O001959,C0110,2024-06-24,Clothing,Jeans,1,32.89,UK,Bank Transfer
+O001960,C0238,2024-09-20,Accessories,Necklace,4,171.79,Spain,Credit Card
+O001961,C0025,2024-02-20,Home,Pillow,3,39.76,Italy,PayPal
+O001962,C0141,2024-01-15,Electronics,Headphones,2,195.2,Spain,Credit Card
+O001963,C0117,2023-05-24,Accessories,Necklace,2,170.08,France,PayPal
+O001964,C0025,2023-01-25,Home,Cookware,4,105.17,Spain,Credit Card
+O001965,C0079,2023-03-14,Beauty,Cream,1,196.47,Spain,Credit Card
+O001966,C0068,2024-09-23,Beauty,Cream,3,28.5,Spain,Bank Transfer
+O001967,C0173,2023-04-03,Clothing,T-Shirt,2,67.58,Italy,PayPal
+O001968,C0012,2024-05-19,Home,Pillow,2,131.26,Italy,Bank Transfer
+O001969,C0288,2024-08-20,Beauty,Cream,1,76.5,Spain,Bank Transfer
+O001970,C0128,2023-12-02,Accessories,Watch,1,186.39,France,Bank Transfer
+O001971,C0096,2024-02-29,Electronics,Headphones,3,22.47,Italy,Bank Transfer
+O001972,C0092,2024-05-13,Sports,Yoga Mat,4,114.39,UK,Bank Transfer
+O001973,C0141,2023-12-30,Electronics,Headphones,1,122.26,Italy,Bank Transfer
+O001974,C0031,2024-09-21,Sports,Sneakers,4,134.02,UK,Credit Card
+O001975,C0020,2023-07-18,Beauty,Perfume,3,58.58,Italy,PayPal
+O001976,C0146,2024-02-17,Clothing,Jeans,4,79.27,UK,Bank Transfer
+O001977,C0160,2023-12-05,Electronics,Keyboard,2,170.3,France,Credit Card
+O001978,C0043,2024-03-04,Sports,Yoga Mat,4,47.04,France,PayPal
+O001979,C0254,2023-05-19,Beauty,Cream,3,167.1,France,PayPal
+O001980,C0130,2024-06-25,Sports,Sneakers,3,116.9,Italy,PayPal
+O001981,C0060,2023-02-26,Home,Lamp,3,154.82,Spain,Bank Transfer
+O001982,C0151,2023-08-20,Sports,Yoga Mat,4,145.59,France,Credit Card
+O001983,C0287,2024-03-10,Sports,Backpack,2,49.43,Italy,Credit Card
+O001984,C0005,2024-01-19,Home,Cookware,1,118.07,Germany,PayPal
+O001985,C0266,2024-07-13,Accessories,Belt,2,174.87,Italy,PayPal
+O001986,C0130,2023-07-13,Electronics,Keyboard,4,92.1,France,Bank Transfer
+O001987,C0267,2024-10-09,Beauty,Cream,4,193.65,France,Bank Transfer
+O001988,C0178,2024-06-17,Home,Lamp,1,95.92,Italy,Credit Card
+O001989,C0253,2024-06-01,Electronics,Mouse,4,37.13,Spain,Credit Card
+O001990,C0056,2023-07-04,Beauty,Cream,3,83.99,Spain,Credit Card
+O001991,C0083,2023-10-19,Beauty,Cream,3,190.82,Spain,Bank Transfer
+O001992,C0099,2023-12-01,Accessories,Belt,3,70.75,UK,Bank Transfer
+O001993,C0149,2023-04-26,Sports,Sneakers,3,174.94,Spain,Credit Card
+O001994,C0156,2023-02-18,Sports,Yoga Mat,3,177.44,France,Credit Card
+O001995,C0190,2023-03-23,Electronics,Keyboard,4,76.54,France,Credit Card
+O001996,C0263,2023-11-29,Electronics,Mouse,1,25.82,Germany,Bank Transfer
+O001997,C0080,2024-07-10,Electronics,Keyboard,1,147.67,Italy,Credit Card
+O001998,C0252,2023-12-01,Electronics,Headphones,3,69.19,UK,Bank Transfer
+O001999,C0097,2024-06-15,Sports,Yoga Mat,4,158.76,France,Bank Transfer
+O002000,C0260,2023-08-09,Sports,Yoga Mat,2,94.1,Italy,PayPal
