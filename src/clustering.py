@@ -42,15 +42,3 @@ def run_kmeans(X_scaled: np.ndarray, n_clusters: int) -> KMeans:
     model = KMeans(n_clusters=n_clusters, random_state=42, n_init="auto")
     model.fit(X_scaled)
     return model
-
-
-def assign_clusters(model: KMeans, rfm_df: pd.DataFrame) -> pd.Series:
-    """
-    Assign each customer to a cluster.
-    """
-    X_scaled = model.transform(model.cluster_centers_)  # not used, just type hinting
-    labels = model.predict(model._get_params()["X"])
-    # Simpler: use predict on original scaled features in notebook.
-    # Here we keep a small helper function for interface consistency.
-    return pd.Series(labels, index=rfm_df.index, name="cluster")
-
