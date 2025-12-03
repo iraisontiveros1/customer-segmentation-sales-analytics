@@ -102,13 +102,13 @@ customer-segmentation-sales-analytics/
 
 ## Key Insights
 
-Cluster 0: High-value, loyal, frequent buyers
+Cluster 0: Represents the most valuable customers (high frequency & monetary, recent activity)
 
-Cluster 1: At-risk customers with decreasing activity
+Cluster 1: Includes occasional low-value buyers
 
-Cluster 2: New or one-time buyers
+Cluster 2: includes loyal mid-tier customers
 
-Cluster 3: Value-driven customers with moderate spend
+Cluster 3: Represents churn-risk customers with long inactivity.
 
 These insights support pricing strategies, loyalty programs, and targeted marketing.
 
