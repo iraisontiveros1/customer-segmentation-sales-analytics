@@ -112,7 +112,7 @@ customer-segmentation-sales-analytics/
 
 ## Key Insights From Clustering
 
-# Cluster 0 – High-Value / VIP Customers
+### Cluster 0 – High-Value / VIP Customers
 
 -High frequency
 -High monetary value
@@ -120,21 +120,21 @@ customer-segmentation-sales-analytics/
 
 Priority for loyalty programs and exclusive offers.
 
-# Cluster 1 – Low-Value / Occasional Buyers
+### Cluster 1 – Low-Value / Occasional Buyers
 
 -Low purchase frequency
 -Low monetary contribution
 
 Engage through promotions, discounts, and onboarding flows.
 
-# Cluster 2 – Loyal Mid-Tier Customers
+### Cluster 2 – Loyal Mid-Tier Customers
 
 -Good frequency
 -Consistent spending
 
 Ideal for upselling and product bundles.
 
-# Cluster 3 – Churn-Risk Customers
+### Cluster 3 – Churn-Risk Customers
 
 -Very high recency (inactive)
 -Low spending
