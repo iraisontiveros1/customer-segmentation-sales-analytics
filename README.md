@@ -1,9 +1,8 @@
 # Customer Segmentation & Sales Analytics 🛍️📊
 
+This project demonstrates a full end-to-end customer analytics workflow, including data cleaning, RFM analysis, clustering using K-Means, segmentation interpretation, and visualization.
 
-This project delivers an end-to-end analytics workflow combining RFM segmentation, clustering, sales insights, and dashboard reporting.
-It simulates a real-world business case where a retail company wants to better understand customer behavior and apply data-driven strategies.
-  
+The goal is to help a company better understand customer behavior, identify high-value segments, and provide actionable insights for marketing and sales teams.
 
 ---
 
