@@ -142,7 +142,6 @@ Ideal for upselling and product bundles.
 Requires reactivation or win-back strategy
 
 ## How to Run the Project
-How to Run the Project
 
 ## 1. Install requirements
 pip install -r requirements.txt
